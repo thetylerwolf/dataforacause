@@ -69,8 +69,9 @@
           }
 
           .chart-title {
-            font-size:24px;
-            font-weight:lighter;
+            font-size:36px;
+            /*font-weight:lighter;*/
+            /*font-weight:bold;*/
             margin-bottom:20px;
           }
 
@@ -78,27 +79,18 @@
     </head>
     <body marginwidth="0" marginheight="0">
       <div class="container">
-        <!-- <blockquote class="description copy">
-          <p><strong>How is the poverty level defined at DonorsChoose.org?</strong></p>
-
-          <p>Poverty level refers to the percentage of students at a given school who qualify for free and reduced lunch, which is considered a measure of economic need.</p>
-
-          <p>To be deemed eligible for free lunch, a student's family income must be within 130% of the poverty line (a max of $29,055 for a family of four). For reduced lunch, the family income must be within 185% of the poverty level (a max of $41,348 for a family of four).</p>
-
-          <p>Schools with 40%-64% of students receiving free/reduced lunch are denoted as "high poverty" while schools with 65%+ of students receiving free/reduced lunch are denoted as "highest poverty".</p>
-
-          <p>From https://www.donorschoose.org/help/popup_faq.html?name=lowincome</p>
-        </blockquote> -->
-        <p></p>
-        <br>
         <div class="chart-title">School Poverty Level vs Value of Funding Requests on DonorsChoose.org</div>
+        <p>Number of funding requests categorized by poverty level over time from 2002 - 2016. There is a clear increase in requests year over year for all poverty levels. Highest poverty schools consistently request the most funding every year. Classroom supplies and technology are the most-cited resources needed across all poverty levels. (See: <a href="https://www.donorschoose.org/help/popup_faq.html?name=lowincome" target="_blank">DonorsChoose.org poverty levels explained</a>)</p>
+        <p>Drag the mouse over each year to see detailed statistics about each poverty level's projects.</p>
+        <br>
         <div class="chart-container">
           <div id="year"></div>
           <div id="tooltip"></div>
           <svg id="chart"></svg>
         </div>
-        <a href="https://github.com/thetylerwolf/dataforacause">see on Github</a>
-      </div
+        <div>Data source: <a href="http://www.donorschoose.org" target="_blank">DonorsChoose.org</a></div>
+        <a href="https://github.com/thetylerwolf/dataforacause" target="_blank">Source on Github</a>
+      </div>
     </body>
 
     <script src="bundle.js"></script>
