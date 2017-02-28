@@ -1,0 +1,3559 @@
+[
+  {
+    "key": "low poverty",
+    "values": [
+      {
+        "key": "Applied Learning",
+        "values": [
+          {
+            "field1": "2",
+            "price": 2268.19,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "23",
+            "price": 10085.19,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "45",
+            "price": 5011.55,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "71",
+            "price": 6921.73,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 635,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "98",
+            "price": 15472.58,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 3050,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "126",
+            "price": 28248.92,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 4913,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "154",
+            "price": 22136,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 2429,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "183",
+            "price": 25513.14,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 2540,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "211",
+            "price": 31137.52,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 10127,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "240",
+            "price": 61395.6,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 13964,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "270",
+            "price": 124570.97,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 25699,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "301",
+            "price": 112311.88,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 20100,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "331",
+            "price": 93169.22,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 23575,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "361",
+            "price": 179122.8,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 25382,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "389",
+            "price": 127020.83,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 20413,
+            "focus": "Applied Learning"
+          }
+        ],
+        "price": 844386.12,
+        "students": 152827
+      },
+      {
+        "key": "History & Civics",
+        "values": [
+          {
+            "field1": "7",
+            "price": 3841,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "29",
+            "price": 1431.96,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "52",
+            "price": 389.7,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 20,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "79",
+            "price": 3791.34,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 241,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "106",
+            "price": 8949.38,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 596,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "134",
+            "price": 6751.41,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 2089,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "162",
+            "price": 8279.72,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 2044,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "191",
+            "price": 16497.64,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 2791,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "219",
+            "price": 33930.33,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 5917,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "248",
+            "price": 47138.7,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 8752,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "278",
+            "price": 57789.37,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 8752,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "309",
+            "price": 73702.59,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 13792,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "339",
+            "price": 80364.74,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 13224,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "369",
+            "price": 144196.88,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 16769,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "397",
+            "price": 34342.21,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 3749,
+            "focus": "History & Civics"
+          }
+        ],
+        "price": 521396.97000000003,
+        "students": 78736
+      },
+      {
+        "key": "Literacy & Language",
+        "values": [
+          {
+            "field1": "11",
+            "price": 4266.94,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "33",
+            "price": 7788.35,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "56",
+            "price": 15891.91,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 775,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "83",
+            "price": 16017.68,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 1166,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "110",
+            "price": 27916,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 3552,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "138",
+            "price": 47218.79,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 6040,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "166",
+            "price": 69726.4,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 13049,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "195",
+            "price": 106859.07,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 17422,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "223",
+            "price": 251750.61,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 46648,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "252",
+            "price": 406825.42,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 53476,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "282",
+            "price": 510501.98,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "313",
+            "price": 600162.32,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "343",
+            "price": 713289.48,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 57632,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "373",
+            "price": 907143.16,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 83174,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "401",
+            "price": 684702.85,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 76684,
+            "focus": "Literacy & Language"
+          }
+        ],
+        "price": 4370060.96,
+        "students": 359618
+      },
+      {
+        "key": "Math & Science",
+        "values": [
+          {
+            "field1": "15",
+            "price": 1801,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "37",
+            "price": 4310.78,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "60",
+            "price": 3458.87,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 820,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "87",
+            "price": 10093.07,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 783,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "114",
+            "price": 7861.18,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 1379,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "142",
+            "price": 30554.87,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 5592,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "170",
+            "price": 44072,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 9598,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "199",
+            "price": 94778.1,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 17703,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "227",
+            "price": 277429.83,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 56658,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "256",
+            "price": 361733.6,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 69728,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "286",
+            "price": 523657.65,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 73659,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "317",
+            "price": 713885.32,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 87139,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "347",
+            "price": 879364.23,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 95809,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "377",
+            "price": 918519.86,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 125101,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "405",
+            "price": 830382.64,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 112066,
+            "focus": "Math & Science"
+          }
+        ],
+        "price": 4701903,
+        "students": 656035
+      },
+      {
+        "key": "Music & The Arts",
+        "values": [
+          {
+            "field1": "19",
+            "price": 5316.59,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "41",
+            "price": 6087.12,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "64",
+            "price": 11490.11,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 1177,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "91",
+            "price": 8493.49,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 3668,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "118",
+            "price": 7702.47,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 1864,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "146",
+            "price": 37228.45,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 7174,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "174",
+            "price": 25422,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 14160,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "203",
+            "price": 20922.29,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 8858,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "231",
+            "price": 80995.77,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 22828,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "260",
+            "price": 87437.95,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 30863,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "290",
+            "price": 145903.12,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 55771,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "321",
+            "price": 112944.77,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 37689,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "351",
+            "price": 149493.97,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 58902,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "381",
+            "price": 157290.84,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 65023,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "409",
+            "price": 146645.34,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 51459,
+            "focus": "Music & The Arts"
+          }
+        ],
+        "price": 1003374.2799999999,
+        "students": 359436
+      },
+      {
+        "key": "Health & Sports",
+        "values": [
+          {
+            "field1": "26",
+            "price": 434.6,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "75",
+            "price": 4569.28,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 787,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "102",
+            "price": 2417.56,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 522,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "130",
+            "price": 6864,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 868,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "158",
+            "price": 5424,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 1569,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "187",
+            "price": 10800.02,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 2993,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "215",
+            "price": 19053.9,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 6444,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "244",
+            "price": 22161.28,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 11042,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "274",
+            "price": 33782.4,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 13676,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "305",
+            "price": 26408.47,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 18592,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "335",
+            "price": 35810.08,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 16217,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "365",
+            "price": 102905.91,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 30570,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "393",
+            "price": 315209.41,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 87819,
+            "focus": "Health & Sports"
+          }
+        ],
+        "price": 585840.9099999999,
+        "students": 191099
+      },
+      {
+        "key": "Special Needs",
+        "values": [
+          {
+            "field1": "122",
+            "price": 2417.98,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 114,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "150",
+            "price": 7608.48,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 284,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "178",
+            "price": 11430.58,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 945,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "207",
+            "price": 19391.36,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 2023,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "235",
+            "price": 39388.74,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 2389,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "264",
+            "price": 60941.88,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 4504,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "294",
+            "price": 67182.87,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 5507,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "325",
+            "price": 85752.66,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 6765,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "355",
+            "price": 83437.71,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 8235,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "385",
+            "price": 179064.49,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 9210,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "413",
+            "price": 140610.24,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 8718,
+            "focus": "Special Needs"
+          }
+        ],
+        "price": 697226.99,
+        "students": 48694
+      }
+    ],
+    "price": 12724189.23,
+    "students": 1846445
+  },
+  {
+    "key": "moderate poverty",
+    "values": [
+      {
+        "key": "History & Civics",
+        "values": [
+          {
+            "field1": "8",
+            "price": 685,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "30",
+            "price": 1949.25,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "53",
+            "price": 2738.8,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 649,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "80",
+            "price": 5479.25,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 1117,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "107",
+            "price": 19809.96,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 3896,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "135",
+            "price": 37453.16,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 8538,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "163",
+            "price": 66994.93,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 14765,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "192",
+            "price": 106965.74,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 21968,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "220",
+            "price": 143343.46,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 35632,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "249",
+            "price": 142757.67,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 35008,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "279",
+            "price": 258319.49,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 46283,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "310",
+            "price": 351632.43,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 56728,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "340",
+            "price": 432008.47,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 66699,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "370",
+            "price": 682168.49,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 96243,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "398",
+            "price": 288740.31,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 50661,
+            "focus": "History & Civics"
+          }
+        ],
+        "price": 2541046.4099999997,
+        "students": 438187
+      },
+      {
+        "key": "Literacy & Language",
+        "values": [
+          {
+            "field1": "12",
+            "price": 2260,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "34",
+            "price": 18573.96,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "57",
+            "price": 34911.33,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 4651,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "84",
+            "price": 57985.57,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 6206,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "111",
+            "price": 137467.58,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 19029,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "139",
+            "price": 235898.43,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 33826,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "167",
+            "price": 368548.77,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 65183,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "196",
+            "price": 517276.44,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 88144,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "224",
+            "price": 1045222.36,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "253",
+            "price": 1720125.87,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "283",
+            "price": 2162957.9,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 292672,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "314",
+            "price": 2928691.59,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "344",
+            "price": 4312230.11,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 483486,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "374",
+            "price": 4473573.75,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 468535,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "402",
+            "price": 2861806.5,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 345582,
+            "focus": "Literacy & Language"
+          }
+        ],
+        "price": 20877530.16,
+        "students": 1807314
+      },
+      {
+        "key": "Math & Science",
+        "values": [
+          {
+            "field1": "16",
+            "price": 120,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "38",
+            "price": 2931.49,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "61",
+            "price": 18719.56,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 3680,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "88",
+            "price": 25832.15,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 6201,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "115",
+            "price": 77196.86,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 14778,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "143",
+            "price": 156407.62,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 36976,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "171",
+            "price": 222756.7,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 53939,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "200",
+            "price": 355049.49,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 89174,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "228",
+            "price": 953996.88,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "257",
+            "price": 1184556.74,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 231313,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "287",
+            "price": 1715042.92,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 306508,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "318",
+            "price": 3373813.55,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "348",
+            "price": 4478850.56,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "378",
+            "price": 4733886.11,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 620093,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "406",
+            "price": 3590174.25,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 506759,
+            "focus": "Math & Science"
+          }
+        ],
+        "price": 20889334.88,
+        "students": 1869421
+      },
+      {
+        "key": "Music & The Arts",
+        "values": [
+          {
+            "field1": "20",
+            "price": 1134,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "42",
+            "price": 9564.76,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 40,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "65",
+            "price": 14410.01,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 3463,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "92",
+            "price": 21220.05,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 6958,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "119",
+            "price": 29737.43,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 12432,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "147",
+            "price": 74289.94,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 32616,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "175",
+            "price": 75269.13,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 36812,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "204",
+            "price": 117244.52,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 50046,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "232",
+            "price": 261313.15,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 111396,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "261",
+            "price": 335503.35,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 149964,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "291",
+            "price": 514195.11,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 226368,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "322",
+            "price": 642670.42,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 267560,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "352",
+            "price": 868313.34,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 287749,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "382",
+            "price": 818906.08,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 326117,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "410",
+            "price": 662655.8,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 252067,
+            "focus": "Music & The Arts"
+          }
+        ],
+        "price": 4446427.09,
+        "students": 1763588
+      },
+      {
+        "key": "Applied Learning",
+        "values": [
+          {
+            "field1": "3",
+            "price": 3827.08,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "24",
+            "price": 6745.89,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "46",
+            "price": 9315.04,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 1189,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "72",
+            "price": 23431.23,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 3216,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "99",
+            "price": 43822.38,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 5482,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "127",
+            "price": 56853.04,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 11197,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "155",
+            "price": 56587.17,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 15430,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "184",
+            "price": 128842.91,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 25492,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "212",
+            "price": 139839.59,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 36575,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "241",
+            "price": 196021.43,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 58678,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "271",
+            "price": 452773.11,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "302",
+            "price": 507606.37,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "332",
+            "price": 681723.97,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 135968,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "362",
+            "price": 809966.41,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 139448,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "390",
+            "price": 636501.6,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 112955,
+            "focus": "Applied Learning"
+          }
+        ],
+        "price": 3753857.22,
+        "students": 545630
+      },
+      {
+        "key": "Health & Sports",
+        "values": [
+          {
+            "field1": "49",
+            "price": 1403.34,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 764,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "76",
+            "price": 7296.69,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 1547,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "103",
+            "price": 20255.53,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 6163,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "131",
+            "price": 23760.06,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 9784,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "159",
+            "price": 28327.24,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 664965,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "188",
+            "price": 21111.18,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 14464,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "216",
+            "price": 46548.41,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 24395,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "245",
+            "price": 105016.94,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 63838,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "275",
+            "price": 127480.38,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 64220,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "306",
+            "price": 176824.24,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 88703,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "336",
+            "price": 258784.92,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 101163,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "366",
+            "price": 466472.57,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 122617,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "394",
+            "price": 1385305.96,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 235730,
+            "focus": "Health & Sports"
+          }
+        ],
+        "price": 2668587.46,
+        "students": 1398353
+      },
+      {
+        "key": "Special Needs",
+        "values": [
+          {
+            "field1": "68",
+            "price": 456.13,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 22,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "95",
+            "price": 5623.13,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 197,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "123",
+            "price": 27077.51,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 1737,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "151",
+            "price": 56813.5,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 2968,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "179",
+            "price": 67313.57,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 25938,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "208",
+            "price": 85770.19,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 7395,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "236",
+            "price": 188128.69,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 16216,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "265",
+            "price": 283636.56,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 24332,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "295",
+            "price": 380276.43,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 27148,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "326",
+            "price": 517596.12,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 34973,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "356",
+            "price": 737852.32,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 40901,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "386",
+            "price": 986742.19,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 57682,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "414",
+            "price": 732184.64,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 43450,
+            "focus": "Special Needs"
+          }
+        ],
+        "price": 4069470.98,
+        "students": 282959
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "267",
+            "price": 521.86,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "298",
+            "price": 590.07,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 21,
+            "focus": "Other"
+          },
+          {
+            "field1": "358",
+            "price": 523.54,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 0,
+            "focus": "Other"
+          }
+        ],
+        "price": 1635.47,
+        "students": 21
+      }
+    ],
+    "price": 59247889.67,
+    "students": 8105473
+  },
+  {
+    "key": "high poverty",
+    "values": [
+      {
+        "key": "History & Civics",
+        "values": [
+          {
+            "field1": "5",
+            "price": 327,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "27",
+            "price": 2199.25,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 80,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "50",
+            "price": 10140.26,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 903,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "77",
+            "price": 20275.18,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 3074,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "104",
+            "price": 63947.53,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 10952,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "132",
+            "price": 103622.77,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 20432,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "160",
+            "price": 140998.14,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 28804,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "189",
+            "price": 263665.92,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 46828,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "217",
+            "price": 305992.2,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 65389,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "246",
+            "price": 247083.84,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 60693,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "276",
+            "price": 514126.14,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 98262,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "307",
+            "price": 564732.83,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 94328,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "337",
+            "price": 705351.21,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 106699,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "367",
+            "price": 1328430.58,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 171648,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "395",
+            "price": 543500.15,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 91616,
+            "focus": "History & Civics"
+          }
+        ],
+        "price": 4814393,
+        "students": 799708
+      },
+      {
+        "key": "Literacy & Language",
+        "values": [
+          {
+            "field1": "9",
+            "price": 1273,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "31",
+            "price": 4695.19,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 20,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "54",
+            "price": 43153.08,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 11676,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "81",
+            "price": 94176.28,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 20666,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "108",
+            "price": 276323.91,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 47609,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "136",
+            "price": 513934.36,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 81741,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "164",
+            "price": 816960.36,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 139119,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "193",
+            "price": 1352138.4,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 265897,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "221",
+            "price": 2268568.34,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "250",
+            "price": 3029185.23,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 550378,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "280",
+            "price": 4269565.66,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 637832,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "311",
+            "price": 4654978.94,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "341",
+            "price": 5995066.63,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 787874,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "371",
+            "price": 6612896.47,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 850230,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "399",
+            "price": 5203754.56,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 691102,
+            "focus": "Literacy & Language"
+          }
+        ],
+        "price": 35136670.41,
+        "students": 4084144
+      },
+      {
+        "key": "Math & Science",
+        "values": [
+          {
+            "field1": "13",
+            "price": 1855,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "35",
+            "price": 411.4,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 20,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "58",
+            "price": 25952.5,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 5389,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "85",
+            "price": 59654.09,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 9778,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "112",
+            "price": 198963.08,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 39117,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "140",
+            "price": 344506.54,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 76140,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "168",
+            "price": 572353.41,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 141216,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "197",
+            "price": 1088132.5,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 238969,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "225",
+            "price": 1665561.41,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "254",
+            "price": 1869938.79,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 413390,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "284",
+            "price": 2699568.28,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 535992,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "315",
+            "price": 4409115.02,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "345",
+            "price": 5410547.77,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 783722,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "375",
+            "price": 6565170.48,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 973458,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "403",
+            "price": 5937573.37,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 858323,
+            "focus": "Math & Science"
+          }
+        ],
+        "price": 30849303.64,
+        "students": 4075514
+      },
+      {
+        "key": "Music & The Arts",
+        "values": [
+          {
+            "field1": "17",
+            "price": 592,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "39",
+            "price": 9734.58,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 80,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "62",
+            "price": 22346.05,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 15038,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "89",
+            "price": 45777.59,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 14701,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "116",
+            "price": 89697.22,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 22474,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "144",
+            "price": 132347.65,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 46986,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "172",
+            "price": 209842.24,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 78733,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "201",
+            "price": 392861.37,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 157966,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "229",
+            "price": 613117.16,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 249411,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "258",
+            "price": 612704.45,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 296614,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "288",
+            "price": 996940.72,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 396476,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "319",
+            "price": 1114852.73,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "349",
+            "price": 1790101.08,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 593395,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "379",
+            "price": 1673386.68,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 656181,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "407",
+            "price": 1722833.45,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 531348,
+            "focus": "Music & The Arts"
+          }
+        ],
+        "price": 9427134.969999999,
+        "students": 3059403
+      },
+      {
+        "key": "Applied Learning",
+        "values": [
+          {
+            "field1": "21",
+            "price": 1825.03,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 20,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "43",
+            "price": 18492.59,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 3120,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "69",
+            "price": 39499.75,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 8278,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "96",
+            "price": 116347.41,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 20073,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "124",
+            "price": 132553.82,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 30864,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "152",
+            "price": 136050.13,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 27388,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "181",
+            "price": 311704.19,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 96833,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "209",
+            "price": 374808.83,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 96811,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "238",
+            "price": 492528.83,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 179216,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "268",
+            "price": 1072757.54,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 263312,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "299",
+            "price": 799445.5,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 179297,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "329",
+            "price": 1061094.54,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 214018,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "359",
+            "price": 1324782.85,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 236137,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "387",
+            "price": 953807.84,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 172134,
+            "focus": "Applied Learning"
+          }
+        ],
+        "price": 6835698.85,
+        "students": 1527501
+      },
+      {
+        "key": "Special Needs",
+        "values": [
+          {
+            "field1": "66",
+            "price": 1712.79,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 58,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "93",
+            "price": 16927.57,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 1292,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "120",
+            "price": 46371.63,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 4521,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "148",
+            "price": 101830.1,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 7894,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "176",
+            "price": 132485.77,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 11045,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "205",
+            "price": 227154.75,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 18921,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "233",
+            "price": 289443.16,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 26807,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "262",
+            "price": 430647.06,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 30388,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "292",
+            "price": 570825.16,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 39984,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "323",
+            "price": 792019.8,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 50610,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "353",
+            "price": 919156.85,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 52969,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "383",
+            "price": 1498624.87,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 92123,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "411",
+            "price": 1099545.8,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 76855,
+            "focus": "Special Needs"
+          }
+        ],
+        "price": 6126745.31,
+        "students": 413467
+      },
+      {
+        "key": "Health & Sports",
+        "values": [
+          {
+            "field1": "47",
+            "price": 5530.01,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 1641,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "73",
+            "price": 8140.72,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 3973,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "100",
+            "price": 42463.54,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 21406,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "128",
+            "price": 51049.31,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 26058,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "156",
+            "price": 73581.49,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 34686,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "185",
+            "price": 80811.36,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 38715,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "213",
+            "price": 128042.05,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 70917,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "242",
+            "price": 152592.23,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 82470,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "272",
+            "price": 311261.79,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 158248,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "303",
+            "price": 406832,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 151796,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "333",
+            "price": 474677.84,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 175604,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "363",
+            "price": 752363.81,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 217500,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "391",
+            "price": 2370638.62,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 401098,
+            "focus": "Health & Sports"
+          }
+        ],
+        "price": 4857984.7700000005,
+        "students": 1384112
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "296",
+            "price": 2359.57,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "327",
+            "price": 2922.75,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 0,
+            "focus": "Other"
+          }
+        ],
+        "price": 5282.32,
+        "students": 0
+      }
+    ],
+    "price": 98053213.26999998,
+    "students": 15343849
+  },
+  {
+    "key": "highest poverty",
+    "values": [
+      {
+        "key": "Applied Learning",
+        "values": [
+          {
+            "field1": "1",
+            "price": 34533.93,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "22",
+            "price": 114531.63,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 60,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "44",
+            "price": 144177.78,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 15404,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "70",
+            "price": 332436.99,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 47364,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "97",
+            "price": 490583.07,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 85228,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "125",
+            "price": 608098.44,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 116885,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "153",
+            "price": 542735.43,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 115931,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "182",
+            "price": 874033.23,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 173843,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "210",
+            "price": 1004207.47,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 1218537,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "239",
+            "price": 1159141.26,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 258604,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "269",
+            "price": 2227969.3,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 432781,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "300",
+            "price": 1646592.67,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "330",
+            "price": 2281735.52,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 403034,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "360",
+            "price": 3098051.46,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 528468,
+            "focus": "Applied Learning"
+          },
+          {
+            "field1": "388",
+            "price": 2148425.21,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 378236,
+            "focus": "Applied Learning"
+          }
+        ],
+        "price": 16707253.39,
+        "students": 3774375
+      },
+      {
+        "key": "Health & Sports",
+        "values": [
+          {
+            "field1": "4",
+            "price": 4564,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "25",
+            "price": 10022.22,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 0,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "48",
+            "price": 53441.33,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 9872,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "74",
+            "price": 101015.9,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 25025,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "101",
+            "price": 177229.66,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 63657,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "129",
+            "price": 269041.93,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 85641,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "157",
+            "price": 265808.58,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 123142,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "186",
+            "price": 338294.1,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 141301,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "214",
+            "price": 368307.24,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "243",
+            "price": 468999.25,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 203584,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "273",
+            "price": 653292.38,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 302880,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "304",
+            "price": 745951.52,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "334",
+            "price": 1196382.94,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 493283,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "364",
+            "price": 2322300.65,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 590011,
+            "focus": "Health & Sports"
+          },
+          {
+            "field1": "392",
+            "price": 5042863.81,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 904225,
+            "focus": "Health & Sports"
+          }
+        ],
+        "price": 12017515.510000002,
+        "students": 2942621
+      },
+      {
+        "key": "History & Civics",
+        "values": [
+          {
+            "field1": "6",
+            "price": 25404.16,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "28",
+            "price": 53853.21,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 180,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "51",
+            "price": 72968.23,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 7523,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "78",
+            "price": 167384.04,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 25351,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "105",
+            "price": 235500.75,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 28735,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "133",
+            "price": 398118.03,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 61021,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "161",
+            "price": 467196.84,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 80699,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "190",
+            "price": 807425.72,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 154657,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "218",
+            "price": 929195.45,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "247",
+            "price": 810877.35,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 176044,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "277",
+            "price": 1047270.15,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 213298,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "308",
+            "price": 1113259.42,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "338",
+            "price": 1790532.03,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 239375,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "368",
+            "price": 2870519.76,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 358129,
+            "focus": "History & Civics"
+          },
+          {
+            "field1": "396",
+            "price": 1202643.38,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 192394,
+            "focus": "History & Civics"
+          }
+        ],
+        "price": 11992148.52,
+        "students": 1537406
+      },
+      {
+        "key": "Literacy & Language",
+        "values": [
+          {
+            "field1": "10",
+            "price": 57098.02,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "32",
+            "price": 246170.47,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 160,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "55",
+            "price": 376649.96,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 40923,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "82",
+            "price": 603864.1,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 82831,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "109",
+            "price": 1367715.75,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 160813,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "137",
+            "price": 2377224.42,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 352034,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "165",
+            "price": 3216478.76,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 521891,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "194",
+            "price": 4589115.46,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 773480,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "222",
+            "price": 7404689.34,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "251",
+            "price": 8280876.88,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 1276539,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "281",
+            "price": 9504816.38,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "312",
+            "price": 10421667.77,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "342",
+            "price": 15428928.45,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 1828202,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "372",
+            "price": 16555059.25,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 1963149,
+            "focus": "Literacy & Language"
+          },
+          {
+            "field1": "400",
+            "price": 12942218.88,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 1591152,
+            "focus": "Literacy & Language"
+          }
+        ],
+        "price": 93372573.89,
+        "students": 8591174
+      },
+      {
+        "key": "Math & Science",
+        "values": [
+          {
+            "field1": "14",
+            "price": 26942.09,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "36",
+            "price": 130041.29,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 20,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "59",
+            "price": 231465.38,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 28647,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "86",
+            "price": 315005.42,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 56804,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "113",
+            "price": 795214.65,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 148371,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "141",
+            "price": 1282343.03,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 256695,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "169",
+            "price": 1742327.34,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 375820,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "198",
+            "price": 3110016.99,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 622476,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "226",
+            "price": 4911336.38,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "255",
+            "price": 4520697.44,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 926481,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "285",
+            "price": 5728831.94,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 1047885,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "316",
+            "price": 8161133.89,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "346",
+            "price": 11414792.98,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 1524824,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "376",
+            "price": 12371847.68,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 1765271,
+            "focus": "Math & Science"
+          },
+          {
+            "field1": "404",
+            "price": 12293089.35,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 1667061,
+            "focus": "Math & Science"
+          }
+        ],
+        "price": 67035085.85000001,
+        "students": 8420355
+      },
+      {
+        "key": "Music & The Arts",
+        "values": [
+          {
+            "field1": "18",
+            "price": 12546.77,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "40",
+            "price": 92277.36,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 60,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "63",
+            "price": 183218.08,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 25365,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "90",
+            "price": 338410.76,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 71113,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "117",
+            "price": 509107.97,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 115197,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "145",
+            "price": 667243.23,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 405564,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "173",
+            "price": 757232.78,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 290805,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "202",
+            "price": 1312977.51,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 423901,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "230",
+            "price": 1686998.09,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "259",
+            "price": 1765128.92,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "289",
+            "price": 2344041.71,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 981674,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "320",
+            "price": 2791743.38,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "350",
+            "price": 3991817.96,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 1424686,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "380",
+            "price": 3933001.91,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 1572277,
+            "focus": "Music & The Arts"
+          },
+          {
+            "field1": "408",
+            "price": 4119385.51,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 1304294,
+            "focus": "Music & The Arts"
+          }
+        ],
+        "price": 24505131.939999998,
+        "students": 6614936
+      },
+      {
+        "key": "Special Needs",
+        "values": [
+          {
+            "field1": "67",
+            "price": 3427.25,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 262,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "94",
+            "price": 88615.23,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 3493,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "121",
+            "price": 188541.14,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 17268,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "149",
+            "price": 345366.84,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 22617,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "177",
+            "price": 392505.41,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 29256,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "206",
+            "price": 650941.43,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 57824,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "234",
+            "price": 902021.27,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "263",
+            "price": 1117345.36,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 94161,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "293",
+            "price": 1355817.36,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 98299,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "324",
+            "price": 1595309.35,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "354",
+            "price": 2126604.75,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 128498,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "384",
+            "price": 3475414.3,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 202833,
+            "focus": "Special Needs"
+          },
+          {
+            "field1": "412",
+            "price": 2235583.58,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 159275,
+            "focus": "Special Needs"
+          }
+        ],
+        "price": 14477493.270000001,
+        "students": 813786
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "180",
+            "price": 17,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "237",
+            "price": 326.84,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 24,
+            "focus": "Other"
+          },
+          {
+            "field1": "266",
+            "price": 1295.08,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "297",
+            "price": 3096.68,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "328",
+            "price": 342.47,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 0,
+            "focus": "Other"
+          },
+          {
+            "field1": "357",
+            "price": 2952.69,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 0,
+            "focus": "Other"
+          }
+        ],
+        "price": 8030.76,
+        "students": 24
+      }
+    ],
+    "price": 240115233.13000003,
+    "students": 32694677
+  }
+]

@@ -1,0 +1,3161 @@
+[
+    {
+        "field1": "1",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "703",
+        "requests": "2"
+    },
+    {
+        "field1": "2",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "79437.98",
+        "requests": "132"
+    },
+    {
+        "field1": "3",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "6842.19",
+        "requests": "11"
+    },
+    {
+        "field1": "4",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "918",
+        "requests": "3"
+    },
+    {
+        "field1": "5",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4177.49",
+        "requests": "34"
+    },
+    {
+        "field1": "6",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "0",
+        "requests": "1"
+    },
+    {
+        "field1": "7",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2002",
+        "students_reached": "40",
+        "total_price_excluding_optional_support": "2231.57",
+        "requests": "6"
+    },
+    {
+        "field1": "8",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "66795.7",
+        "requests": "137"
+    },
+    {
+        "field1": "9",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "8539.78",
+        "requests": "14"
+    },
+    {
+        "field1": "10",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2002",
+        "students_reached": "20",
+        "total_price_excluding_optional_support": "3334.9",
+        "requests": "13"
+    },
+    {
+        "field1": "11",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2002",
+        "students_reached": "20",
+        "total_price_excluding_optional_support": "1777",
+        "requests": "2"
+    },
+    {
+        "field1": "12",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "96070.02",
+        "requests": "96"
+    },
+    {
+        "field1": "13",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4533.75",
+        "requests": "8"
+    },
+    {
+        "field1": "14",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "5197.75",
+        "requests": "12"
+    },
+    {
+        "field1": "15",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "140",
+        "requests": "1"
+    },
+    {
+        "field1": "16",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "22699.1",
+        "requests": "32"
+    },
+    {
+        "field1": "17",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "7365",
+        "requests": "6"
+    },
+    {
+        "field1": "18",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "400",
+        "requests": "1"
+    },
+    {
+        "field1": "19",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1400",
+        "requests": "2"
+    },
+    {
+        "field1": "20",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2002",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "300",
+        "requests": "1"
+    },
+    {
+        "field1": "21",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2003",
+        "students_reached": "160",
+        "total_price_excluding_optional_support": "6447.39",
+        "requests": "12"
+    },
+    {
+        "field1": "22",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2003",
+        "students_reached": "584",
+        "total_price_excluding_optional_support": "202355.84",
+        "requests": "456"
+    },
+    {
+        "field1": "23",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4713.89",
+        "requests": "8"
+    },
+    {
+        "field1": "24",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2003",
+        "students_reached": "65",
+        "total_price_excluding_optional_support": "17430.34",
+        "requests": "34"
+    },
+    {
+        "field1": "25",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2003",
+        "students_reached": "80",
+        "total_price_excluding_optional_support": "3229.48",
+        "requests": "7"
+    },
+    {
+        "field1": "26",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2003",
+        "students_reached": "132",
+        "total_price_excluding_optional_support": "1066264.73",
+        "requests": "285"
+    },
+    {
+        "field1": "27",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "5016.63",
+        "requests": "10"
+    },
+    {
+        "field1": "28",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2397.77",
+        "requests": "23"
+    },
+    {
+        "field1": "29",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2003",
+        "students_reached": "260",
+        "total_price_excluding_optional_support": "17167.85",
+        "requests": "26"
+    },
+    {
+        "field1": "30",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2003",
+        "students_reached": "350",
+        "total_price_excluding_optional_support": "279757.76",
+        "requests": "647"
+    },
+    {
+        "field1": "31",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "6678.22",
+        "requests": "14"
+    },
+    {
+        "field1": "32",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2003",
+        "students_reached": "60",
+        "total_price_excluding_optional_support": "20549.7",
+        "requests": "62"
+    },
+    {
+        "field1": "33",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2003",
+        "students_reached": "40",
+        "total_price_excluding_optional_support": "5118.39",
+        "requests": "7"
+    },
+    {
+        "field1": "34",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2003",
+        "students_reached": "1140",
+        "total_price_excluding_optional_support": "150372.5",
+        "requests": "279"
+    },
+    {
+        "field1": "35",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2003",
+        "students_reached": "20",
+        "total_price_excluding_optional_support": "8672.98",
+        "requests": "8"
+    },
+    {
+        "field1": "36",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2003",
+        "students_reached": "40",
+        "total_price_excluding_optional_support": "5617.31",
+        "requests": "14"
+    },
+    {
+        "field1": "37",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2003",
+        "students_reached": "20",
+        "total_price_excluding_optional_support": "1695.35",
+        "requests": "3"
+    },
+    {
+        "field1": "38",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2003",
+        "students_reached": "220",
+        "total_price_excluding_optional_support": "58822.02",
+        "requests": "58"
+    },
+    {
+        "field1": "39",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "5661.25",
+        "requests": "7"
+    },
+    {
+        "field1": "40",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2003",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4604.41",
+        "requests": "6"
+    },
+    {
+        "field1": "41",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2004",
+        "students_reached": "13053",
+        "total_price_excluding_optional_support": "56064.48",
+        "requests": "155"
+    },
+    {
+        "field1": "42",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2004",
+        "students_reached": "39256",
+        "total_price_excluding_optional_support": "310866.03",
+        "requests": "785"
+    },
+    {
+        "field1": "43",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2004",
+        "students_reached": "1883",
+        "total_price_excluding_optional_support": "18565.42",
+        "requests": "27"
+    },
+    {
+        "field1": "44",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2004",
+        "students_reached": "4002",
+        "total_price_excluding_optional_support": "30107.92",
+        "requests": "78"
+    },
+    {
+        "field1": "45",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2004",
+        "students_reached": "2396",
+        "total_price_excluding_optional_support": "12846.28",
+        "requests": "36"
+    },
+    {
+        "field1": "46",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2004",
+        "students_reached": "12362",
+        "total_price_excluding_optional_support": "90091.7",
+        "requests": "299"
+    },
+    {
+        "field1": "47",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2004",
+        "students_reached": "495",
+        "total_price_excluding_optional_support": "2704.37",
+        "requests": "8"
+    },
+    {
+        "field1": "48",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2004",
+        "students_reached": "1392",
+        "total_price_excluding_optional_support": "2648.1",
+        "requests": "21"
+    },
+    {
+        "field1": "49",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2004",
+        "students_reached": "40275",
+        "total_price_excluding_optional_support": "106098.55",
+        "requests": "290"
+    },
+    {
+        "field1": "50",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2004",
+        "students_reached": "103628",
+        "total_price_excluding_optional_support": "608004.77",
+        "requests": "1655"
+    },
+    {
+        "field1": "51",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2004",
+        "students_reached": "3352",
+        "total_price_excluding_optional_support": "16389.55",
+        "requests": "30"
+    },
+    {
+        "field1": "52",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2004",
+        "students_reached": "12325",
+        "total_price_excluding_optional_support": "64106.8",
+        "requests": "237"
+    },
+    {
+        "field1": "53",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2004",
+        "students_reached": "15641",
+        "total_price_excluding_optional_support": "81762.63",
+        "requests": "112"
+    },
+    {
+        "field1": "54",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2004",
+        "students_reached": "54004",
+        "total_price_excluding_optional_support": "394091.02",
+        "requests": "577"
+    },
+    {
+        "field1": "55",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2004",
+        "students_reached": "1293",
+        "total_price_excluding_optional_support": "7498.94",
+        "requests": "10"
+    },
+    {
+        "field1": "56",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2004",
+        "students_reached": "5489",
+        "total_price_excluding_optional_support": "29186.5",
+        "requests": "54"
+    },
+    {
+        "field1": "57",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2004",
+        "students_reached": "366",
+        "total_price_excluding_optional_support": "6997.32",
+        "requests": "13"
+    },
+    {
+        "field1": "58",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2004",
+        "students_reached": "4498",
+        "total_price_excluding_optional_support": "113912.17",
+        "requests": "138"
+    },
+    {
+        "field1": "59",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2004",
+        "students_reached": "85",
+        "total_price_excluding_optional_support": "4301.93",
+        "requests": "5"
+    },
+    {
+        "field1": "60",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2004",
+        "students_reached": "449",
+        "total_price_excluding_optional_support": "12453.84",
+        "requests": "12"
+    },
+    {
+        "field1": "61",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2004",
+        "students_reached": "173",
+        "total_price_excluding_optional_support": "3408.11",
+        "requests": "3"
+    },
+    {
+        "field1": "62",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2004",
+        "students_reached": "2439",
+        "total_price_excluding_optional_support": "10551.2",
+        "requests": "18"
+    },
+    {
+        "field1": "63",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2004",
+        "students_reached": "75",
+        "total_price_excluding_optional_support": "1470.88",
+        "requests": "1"
+    },
+    {
+        "field1": "64",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2004",
+        "students_reached": "90",
+        "total_price_excluding_optional_support": "1394",
+        "requests": "1"
+    },
+    {
+        "field1": "65",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2005",
+        "students_reached": "38753",
+        "total_price_excluding_optional_support": "177878.5",
+        "requests": "395"
+    },
+    {
+        "field1": "66",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2005",
+        "students_reached": "95267",
+        "total_price_excluding_optional_support": "675005.04",
+        "requests": "1409"
+    },
+    {
+        "field1": "67",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2005",
+        "students_reached": "2916",
+        "total_price_excluding_optional_support": "25184.27",
+        "requests": "41"
+    },
+    {
+        "field1": "68",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2005",
+        "students_reached": "12234",
+        "total_price_excluding_optional_support": "64797.99",
+        "requests": "150"
+    },
+    {
+        "field1": "69",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2005",
+        "students_reached": "7443",
+        "total_price_excluding_optional_support": "36278.15",
+        "requests": "83"
+    },
+    {
+        "field1": "70",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2005",
+        "students_reached": "25884",
+        "total_price_excluding_optional_support": "251629.12",
+        "requests": "325"
+    },
+    {
+        "field1": "71",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2005",
+        "students_reached": "233",
+        "total_price_excluding_optional_support": "1176.29",
+        "requests": "3"
+    },
+    {
+        "field1": "72",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2005",
+        "students_reached": "3014",
+        "total_price_excluding_optional_support": "22655.15",
+        "requests": "48"
+    },
+    {
+        "field1": "73",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2005",
+        "students_reached": "60896",
+        "total_price_excluding_optional_support": "329887.66",
+        "requests": "633"
+    },
+    {
+        "field1": "74",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2005",
+        "students_reached": "263846",
+        "total_price_excluding_optional_support": "1390093.01",
+        "requests": "2950"
+    },
+    {
+        "field1": "75",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2005",
+        "students_reached": "5626",
+        "total_price_excluding_optional_support": "28762.51",
+        "requests": "45"
+    },
+    {
+        "field1": "76",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2005",
+        "students_reached": "29624",
+        "total_price_excluding_optional_support": "167233.76",
+        "requests": "376"
+    },
+    {
+        "field1": "77",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2005",
+        "students_reached": "52862",
+        "total_price_excluding_optional_support": "393715.04",
+        "requests": "392"
+    },
+    {
+        "field1": "78",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2005",
+        "students_reached": "164793",
+        "total_price_excluding_optional_support": "1357911.78",
+        "requests": "1460"
+    },
+    {
+        "field1": "79",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2005",
+        "students_reached": "6496",
+        "total_price_excluding_optional_support": "50002.22",
+        "requests": "50"
+    },
+    {
+        "field1": "80",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2005",
+        "students_reached": "17638",
+        "total_price_excluding_optional_support": "159022.66",
+        "requests": "166"
+    },
+    {
+        "field1": "81",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2005",
+        "students_reached": "2269",
+        "total_price_excluding_optional_support": "92322.72",
+        "requests": "69"
+    },
+    {
+        "field1": "82",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2005",
+        "students_reached": "16586",
+        "total_price_excluding_optional_support": "521839.62",
+        "requests": "443"
+    },
+    {
+        "field1": "83",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2005",
+        "students_reached": "380",
+        "total_price_excluding_optional_support": "17149.79",
+        "requests": "17"
+    },
+    {
+        "field1": "84",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2005",
+        "students_reached": "1706",
+        "total_price_excluding_optional_support": "35590.21",
+        "requests": "48"
+    },
+    {
+        "field1": "85",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2005",
+        "students_reached": "4018",
+        "total_price_excluding_optional_support": "23355.6",
+        "requests": "21"
+    },
+    {
+        "field1": "86",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2005",
+        "students_reached": "12930",
+        "total_price_excluding_optional_support": "74434.96",
+        "requests": "73"
+    },
+    {
+        "field1": "87",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2005",
+        "students_reached": "370",
+        "total_price_excluding_optional_support": "2180.17",
+        "requests": "2"
+    },
+    {
+        "field1": "88",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2005",
+        "students_reached": "1848",
+        "total_price_excluding_optional_support": "10124.96",
+        "requests": "14"
+    },
+    {
+        "field1": "89",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2006",
+        "students_reached": "71647",
+        "total_price_excluding_optional_support": "399619.21",
+        "requests": "880"
+    },
+    {
+        "field1": "90",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2006",
+        "students_reached": "191869",
+        "total_price_excluding_optional_support": "1456870.74",
+        "requests": "3016"
+    },
+    {
+        "field1": "91",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2006",
+        "students_reached": "4340",
+        "total_price_excluding_optional_support": "33168.9",
+        "requests": "66"
+    },
+    {
+        "field1": "92",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2006",
+        "students_reached": "24474",
+        "total_price_excluding_optional_support": "156443.48",
+        "requests": "363"
+    },
+    {
+        "field1": "93",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2006",
+        "students_reached": "34305",
+        "total_price_excluding_optional_support": "161792.81",
+        "requests": "297"
+    },
+    {
+        "field1": "94",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2006",
+        "students_reached": "204741",
+        "total_price_excluding_optional_support": "671619.4",
+        "requests": "1063"
+    },
+    {
+        "field1": "95",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2006",
+        "students_reached": "1572",
+        "total_price_excluding_optional_support": "12480.06",
+        "requests": "19"
+    },
+    {
+        "field1": "96",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2006",
+        "students_reached": "12142",
+        "total_price_excluding_optional_support": "77601.62",
+        "requests": "124"
+    },
+    {
+        "field1": "97",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2006",
+        "students_reached": "140651",
+        "total_price_excluding_optional_support": "761437.33",
+        "requests": "1546"
+    },
+    {
+        "field1": "98",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2006",
+        "students_reached": "639561",
+        "total_price_excluding_optional_support": "2796487.37",
+        "requests": "5680"
+    },
+    {
+        "field1": "99",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2006",
+        "students_reached": "7805",
+        "total_price_excluding_optional_support": "66597.99",
+        "requests": "121"
+    },
+    {
+        "field1": "100",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2006",
+        "students_reached": "68252",
+        "total_price_excluding_optional_support": "345497.61",
+        "requests": "717"
+    },
+    {
+        "field1": "101",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2006",
+        "students_reached": "132482",
+        "total_price_excluding_optional_support": "1112665.58",
+        "requests": "1119"
+    },
+    {
+        "field1": "102",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2006",
+        "students_reached": "390510",
+        "total_price_excluding_optional_support": "3487444.31",
+        "requests": "3623"
+    },
+    {
+        "field1": "103",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2006",
+        "students_reached": "12697",
+        "total_price_excluding_optional_support": "87129.12",
+        "requests": "85"
+    },
+    {
+        "field1": "104",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2006",
+        "students_reached": "53607",
+        "total_price_excluding_optional_support": "465017.45",
+        "requests": "470"
+    },
+    {
+        "field1": "105",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2006",
+        "students_reached": "7086",
+        "total_price_excluding_optional_support": "276574.86",
+        "requests": "162"
+    },
+    {
+        "field1": "106",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2006",
+        "students_reached": "39662",
+        "total_price_excluding_optional_support": "1265011.27",
+        "requests": "674"
+    },
+    {
+        "field1": "107",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2006",
+        "students_reached": "578",
+        "total_price_excluding_optional_support": "30232.69",
+        "requests": "17"
+    },
+    {
+        "field1": "108",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2006",
+        "students_reached": "2777",
+        "total_price_excluding_optional_support": "218067.37",
+        "requests": "66"
+    },
+    {
+        "field1": "109",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2006",
+        "students_reached": "5650",
+        "total_price_excluding_optional_support": "30623.45",
+        "requests": "35"
+    },
+    {
+        "field1": "110",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2006",
+        "students_reached": "14677",
+        "total_price_excluding_optional_support": "119340.74",
+        "requests": "123"
+    },
+    {
+        "field1": "111",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2006",
+        "students_reached": "1545",
+        "total_price_excluding_optional_support": "5678.52",
+        "requests": "5"
+    },
+    {
+        "field1": "112",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2006",
+        "students_reached": "3448",
+        "total_price_excluding_optional_support": "17309.34",
+        "requests": "16"
+    },
+    {
+        "field1": "113",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2007",
+        "students_reached": "126455",
+        "total_price_excluding_optional_support": "668148.18",
+        "requests": "1629"
+    },
+    {
+        "field1": "114",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2007",
+        "students_reached": "343088",
+        "total_price_excluding_optional_support": "2274342.82",
+        "requests": "5350"
+    },
+    {
+        "field1": "115",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2007",
+        "students_reached": "10546",
+        "total_price_excluding_optional_support": "57759.51",
+        "requests": "149"
+    },
+    {
+        "field1": "116",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2007",
+        "students_reached": "47823",
+        "total_price_excluding_optional_support": "265690.27",
+        "requests": "706"
+    },
+    {
+        "field1": "117",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2007",
+        "students_reached": "47165",
+        "total_price_excluding_optional_support": "292127.65",
+        "requests": "565"
+    },
+    {
+        "field1": "118",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2007",
+        "students_reached": "155238",
+        "total_price_excluding_optional_support": "1003444.98",
+        "requests": "2107"
+    },
+    {
+        "field1": "119",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2007",
+        "students_reached": "4010",
+        "total_price_excluding_optional_support": "28801.56",
+        "requests": "65"
+    },
+    {
+        "field1": "120",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2007",
+        "students_reached": "22268",
+        "total_price_excluding_optional_support": "131682.09",
+        "requests": "306"
+    },
+    {
+        "field1": "121",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2007",
+        "students_reached": "240683",
+        "total_price_excluding_optional_support": "887708.37",
+        "requests": "2228"
+    },
+    {
+        "field1": "122",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2007",
+        "students_reached": "683511",
+        "total_price_excluding_optional_support": "3291769.29",
+        "requests": "8000"
+    },
+    {
+        "field1": "123",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2007",
+        "students_reached": "17685",
+        "total_price_excluding_optional_support": "97422.63",
+        "requests": "235"
+    },
+    {
+        "field1": "124",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2007",
+        "students_reached": "109545",
+        "total_price_excluding_optional_support": "447408",
+        "requests": "1209"
+    },
+    {
+        "field1": "125",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2007",
+        "students_reached": "203953",
+        "total_price_excluding_optional_support": "1433465.99",
+        "requests": "1866"
+    },
+    {
+        "field1": "126",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2007",
+        "students_reached": "529025",
+        "total_price_excluding_optional_support": "4557779.72",
+        "requests": "5460"
+    },
+    {
+        "field1": "127",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2007",
+        "students_reached": "19558",
+        "total_price_excluding_optional_support": "164152.52",
+        "requests": "188"
+    },
+    {
+        "field1": "128",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2007",
+        "students_reached": "98051",
+        "total_price_excluding_optional_support": "675628.91",
+        "requests": "988"
+    },
+    {
+        "field1": "129",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2007",
+        "students_reached": "4582",
+        "total_price_excluding_optional_support": "170959.11",
+        "requests": "88"
+    },
+    {
+        "field1": "130",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2007",
+        "students_reached": "14137",
+        "total_price_excluding_optional_support": "671848.65",
+        "requests": "333"
+    },
+    {
+        "field1": "131",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2007",
+        "students_reached": "160",
+        "total_price_excluding_optional_support": "5714.55",
+        "requests": "9"
+    },
+    {
+        "field1": "132",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2007",
+        "students_reached": "1287",
+        "total_price_excluding_optional_support": "82775.54",
+        "requests": "29"
+    },
+    {
+        "field1": "133",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2007",
+        "students_reached": "3192",
+        "total_price_excluding_optional_support": "16133.42",
+        "requests": "17"
+    },
+    {
+        "field1": "134",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2007",
+        "students_reached": "10008",
+        "total_price_excluding_optional_support": "49278.58",
+        "requests": "58"
+    },
+    {
+        "field1": "135",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2007",
+        "students_reached": "1115",
+        "total_price_excluding_optional_support": "2425",
+        "requests": "4"
+    },
+    {
+        "field1": "136",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2007",
+        "students_reached": "1799",
+        "total_price_excluding_optional_support": "13244",
+        "requests": "12"
+    },
+    {
+        "field1": "137",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2008",
+        "students_reached": "172714",
+        "total_price_excluding_optional_support": "946602.76",
+        "requests": "2569"
+    },
+    {
+        "field1": "138",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2008",
+        "students_reached": "499655",
+        "total_price_excluding_optional_support": "2994450.38",
+        "requests": "7798"
+    },
+    {
+        "field1": "139",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2008",
+        "students_reached": "14239",
+        "total_price_excluding_optional_support": "74526.78",
+        "requests": "200"
+    },
+    {
+        "field1": "140",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2008",
+        "students_reached": "92018",
+        "total_price_excluding_optional_support": "477850.09",
+        "requests": "1272"
+    },
+    {
+        "field1": "141",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2008",
+        "students_reached": "72422",
+        "total_price_excluding_optional_support": "414795.51",
+        "requests": "1037"
+    },
+    {
+        "field1": "142",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2008",
+        "students_reached": "218876",
+        "total_price_excluding_optional_support": "1275636.2",
+        "requests": "2949"
+    },
+    {
+        "field1": "143",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2008",
+        "students_reached": "6832",
+        "total_price_excluding_optional_support": "41023.59",
+        "requests": "96"
+    },
+    {
+        "field1": "144",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2008",
+        "students_reached": "39573",
+        "total_price_excluding_optional_support": "224408.81",
+        "requests": "534"
+    },
+    {
+        "field1": "145",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2008",
+        "students_reached": "349127",
+        "total_price_excluding_optional_support": "1486768.79",
+        "requests": "4125"
+    },
+    {
+        "field1": "146",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2008",
+        "students_reached": "984687",
+        "total_price_excluding_optional_support": "4459714.96",
+        "requests": "11928"
+    },
+    {
+        "field1": "147",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2008",
+        "students_reached": "30827",
+        "total_price_excluding_optional_support": "139215.52",
+        "requests": "353"
+    },
+    {
+        "field1": "148",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2008",
+        "students_reached": "834565",
+        "total_price_excluding_optional_support": "688934.72",
+        "requests": "1885"
+    },
+    {
+        "field1": "149",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2008",
+        "students_reached": "281404",
+        "total_price_excluding_optional_support": "1726005.94",
+        "requests": "3027"
+    },
+    {
+        "field1": "150",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2008",
+        "students_reached": "1726968",
+        "total_price_excluding_optional_support": "4766280.97",
+        "requests": "8074"
+    },
+    {
+        "field1": "151",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2008",
+        "students_reached": "27892",
+        "total_price_excluding_optional_support": "170532.49",
+        "requests": "285"
+    },
+    {
+        "field1": "152",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2008",
+        "students_reached": "157471",
+        "total_price_excluding_optional_support": "881657.56",
+        "requests": "1630"
+    },
+    {
+        "field1": "153",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2008",
+        "students_reached": "1412",
+        "total_price_excluding_optional_support": "37534.7",
+        "requests": "36"
+    },
+    {
+        "field1": "154",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2008",
+        "students_reached": "6432",
+        "total_price_excluding_optional_support": "326419.5",
+        "requests": "155"
+    },
+    {
+        "field1": "155",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2008",
+        "students_reached": "253",
+        "total_price_excluding_optional_support": "8241",
+        "requests": "7"
+    },
+    {
+        "field1": "156",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2008",
+        "students_reached": "1012",
+        "total_price_excluding_optional_support": "98096.5",
+        "requests": "19"
+    },
+    {
+        "field1": "157",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2008",
+        "students_reached": "707",
+        "total_price_excluding_optional_support": "10148.94",
+        "requests": "10"
+    },
+    {
+        "field1": "158",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2008",
+        "students_reached": "4285",
+        "total_price_excluding_optional_support": "29377.38",
+        "requests": "36"
+    },
+    {
+        "field1": "159",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2008",
+        "students_reached": "350",
+        "total_price_excluding_optional_support": "1367",
+        "requests": "2"
+    },
+    {
+        "field1": "160",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2008",
+        "students_reached": "1590",
+        "total_price_excluding_optional_support": "13329.15",
+        "requests": "7"
+    },
+    {
+        "field1": "162",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2009",
+        "students_reached": "304833",
+        "total_price_excluding_optional_support": "1394934.79",
+        "requests": "3646"
+    },
+    {
+        "field1": "163",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2009",
+        "students_reached": "642631",
+        "total_price_excluding_optional_support": "3680836.05",
+        "requests": "9465"
+    },
+    {
+        "field1": "164",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2009",
+        "students_reached": "16275",
+        "total_price_excluding_optional_support": "102939.86",
+        "requests": "270"
+    },
+    {
+        "field1": "165",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2009",
+        "students_reached": "117827",
+        "total_price_excluding_optional_support": "579755.54",
+        "requests": "1563"
+    },
+    {
+        "field1": "166",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2009",
+        "students_reached": "109287",
+        "total_price_excluding_optional_support": "619021.12",
+        "requests": "1451"
+    },
+    {
+        "field1": "167",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2009",
+        "students_reached": "251522",
+        "total_price_excluding_optional_support": "1464538.79",
+        "requests": "3446"
+    },
+    {
+        "field1": "168",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2009",
+        "students_reached": "5649",
+        "total_price_excluding_optional_support": "10287350.36",
+        "requests": "102"
+    },
+    {
+        "field1": "169",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2009",
+        "students_reached": "53624",
+        "total_price_excluding_optional_support": "241950.88",
+        "requests": "618"
+    },
+    {
+        "field1": "170",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2009",
+        "students_reached": "536229",
+        "total_price_excluding_optional_support": "2078033.98",
+        "requests": "5605"
+    },
+    {
+        "field1": "171",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2009",
+        "students_reached": "1313258",
+        "total_price_excluding_optional_support": "5690762.18",
+        "requests": "14959"
+    },
+    {
+        "field1": "172",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2009",
+        "students_reached": "36206",
+        "total_price_excluding_optional_support": "192867.93",
+        "requests": "484"
+    },
+    {
+        "field1": "173",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2009",
+        "students_reached": "204822",
+        "total_price_excluding_optional_support": "879376.66",
+        "requests": "2462"
+    },
+    {
+        "field1": "174",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2009",
+        "students_reached": "500014",
+        "total_price_excluding_optional_support": "3175141.92",
+        "requests": "5114"
+    },
+    {
+        "field1": "175",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2009",
+        "students_reached": "2100401",
+        "total_price_excluding_optional_support": "7134269.45",
+        "requests": "11321"
+    },
+    {
+        "field1": "176",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2009",
+        "students_reached": "35645",
+        "total_price_excluding_optional_support": "239675.97",
+        "requests": "406"
+    },
+    {
+        "field1": "177",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2009",
+        "students_reached": "209331",
+        "total_price_excluding_optional_support": "1370974.5",
+        "requests": "2298"
+    },
+    {
+        "field1": "178",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2009",
+        "students_reached": "3740",
+        "total_price_excluding_optional_support": "118798.24",
+        "requests": "51"
+    },
+    {
+        "field1": "179",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2009",
+        "students_reached": "8685",
+        "total_price_excluding_optional_support": "349515.5",
+        "requests": "195"
+    },
+    {
+        "field1": "180",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2009",
+        "students_reached": "59",
+        "total_price_excluding_optional_support": "5750.07",
+        "requests": "4"
+    },
+    {
+        "field1": "181",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2009",
+        "students_reached": "1721",
+        "total_price_excluding_optional_support": "55874.45",
+        "requests": "26"
+    },
+    {
+        "field1": "182",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2009",
+        "students_reached": "1809",
+        "total_price_excluding_optional_support": "9128.4",
+        "requests": "11"
+    },
+    {
+        "field1": "183",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2009",
+        "students_reached": "28281",
+        "total_price_excluding_optional_support": "68045.09",
+        "requests": "36"
+    },
+    {
+        "field1": "184",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2009",
+        "students_reached": "99",
+        "total_price_excluding_optional_support": "1490.48",
+        "requests": "5"
+    },
+    {
+        "field1": "185",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2009",
+        "students_reached": "1001",
+        "total_price_excluding_optional_support": "5610.19",
+        "requests": "8"
+    },
+    {
+        "field1": "186",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1841773.44",
+        "requests": "4687"
+    },
+    {
+        "field1": "187",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "5079566.32",
+        "requests": "12779"
+    },
+    {
+        "field1": "188",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2010",
+        "students_reached": "43948",
+        "total_price_excluding_optional_support": "170518.61",
+        "requests": "443"
+    },
+    {
+        "field1": "189",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2010",
+        "students_reached": "255129",
+        "total_price_excluding_optional_support": "896323.38",
+        "requests": "2343"
+    },
+    {
+        "field1": "190",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2010",
+        "students_reached": "203262",
+        "total_price_excluding_optional_support": "933774.29",
+        "requests": "2297"
+    },
+    {
+        "field1": "191",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2467445.81",
+        "requests": "5924"
+    },
+    {
+        "field1": "192",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2010",
+        "students_reached": "18698",
+        "total_price_excluding_optional_support": "101766.74",
+        "requests": "216"
+    },
+    {
+        "field1": "193",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2010",
+        "students_reached": "109558",
+        "total_price_excluding_optional_support": "521574.13",
+        "requests": "1278"
+    },
+    {
+        "field1": "194",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2731922.47",
+        "requests": "6764"
+    },
+    {
+        "field1": "195",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "7499091.96",
+        "requests": "18684"
+    },
+    {
+        "field1": "196",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2010",
+        "students_reached": "72290",
+        "total_price_excluding_optional_support": "294202.07",
+        "requests": "686"
+    },
+    {
+        "field1": "197",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1412804.91",
+        "requests": "3632"
+    },
+    {
+        "field1": "198",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4251795.69",
+        "requests": "6583"
+    },
+    {
+        "field1": "199",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "9873978.19",
+        "requests": "15094"
+    },
+    {
+        "field1": "200",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2010",
+        "students_reached": "115912",
+        "total_price_excluding_optional_support": "640885.64",
+        "requests": "942"
+    },
+    {
+        "field1": "201",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2010",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2320170.98",
+        "requests": "3742"
+    },
+    {
+        "field1": "202",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2010",
+        "students_reached": "2812",
+        "total_price_excluding_optional_support": "132811.27",
+        "requests": "50"
+    },
+    {
+        "field1": "203",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2010",
+        "students_reached": "10816",
+        "total_price_excluding_optional_support": "519299.24",
+        "requests": "221"
+    },
+    {
+        "field1": "204",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2010",
+        "students_reached": "844",
+        "total_price_excluding_optional_support": "48984.33",
+        "requests": "13"
+    },
+    {
+        "field1": "205",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2010",
+        "students_reached": "1292",
+        "total_price_excluding_optional_support": "37993.58",
+        "requests": "20"
+    },
+    {
+        "field1": "206",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2010",
+        "students_reached": "514",
+        "total_price_excluding_optional_support": "8213.32",
+        "requests": "12"
+    },
+    {
+        "field1": "207",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2010",
+        "students_reached": "5063",
+        "total_price_excluding_optional_support": "38508.97",
+        "requests": "34"
+    },
+    {
+        "field1": "208",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2010",
+        "students_reached": "953",
+        "total_price_excluding_optional_support": "6503.3",
+        "requests": "5"
+    },
+    {
+        "field1": "212",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2011",
+        "students_reached": "462145",
+        "total_price_excluding_optional_support": "2274225.32",
+        "requests": "5419"
+    },
+    {
+        "field1": "213",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2011",
+        "students_reached": "1092848",
+        "total_price_excluding_optional_support": "5987221.32",
+        "requests": "14048"
+    },
+    {
+        "field1": "214",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2011",
+        "students_reached": "44153",
+        "total_price_excluding_optional_support": "281585.26",
+        "requests": "570"
+    },
+    {
+        "field1": "215",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2011",
+        "students_reached": "213592",
+        "total_price_excluding_optional_support": "1075981.67",
+        "requests": "2645"
+    },
+    {
+        "field1": "216",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2011",
+        "students_reached": "277464",
+        "total_price_excluding_optional_support": "1304187.33",
+        "requests": "3086"
+    },
+    {
+        "field1": "217",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2011",
+        "students_reached": "587740",
+        "total_price_excluding_optional_support": "3066253.85",
+        "requests": "7156"
+    },
+    {
+        "field1": "218",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2011",
+        "students_reached": "29706",
+        "total_price_excluding_optional_support": "141555.21",
+        "requests": "319"
+    },
+    {
+        "field1": "219",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2011",
+        "students_reached": "134951",
+        "total_price_excluding_optional_support": "683430.55",
+        "requests": "1619"
+    },
+    {
+        "field1": "220",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2011",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "3501794.66",
+        "requests": "8637"
+    },
+    {
+        "field1": "221",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2011",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "8760981.81",
+        "requests": "21629"
+    },
+    {
+        "field1": "222",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2011",
+        "students_reached": "96346",
+        "total_price_excluding_optional_support": "428288.79",
+        "requests": "973"
+    },
+    {
+        "field1": "223",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2011",
+        "students_reached": "450665",
+        "total_price_excluding_optional_support": "1920761.99",
+        "requests": "4655"
+    },
+    {
+        "field1": "224",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2011",
+        "students_reached": "907277",
+        "total_price_excluding_optional_support": "4858261.26",
+        "requests": "8614"
+    },
+    {
+        "field1": "225",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2011",
+        "students_reached": "1724260",
+        "total_price_excluding_optional_support": "10776029.47",
+        "requests": "17984"
+    },
+    {
+        "field1": "226",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2011",
+        "students_reached": "112515",
+        "total_price_excluding_optional_support": "710246.29",
+        "requests": "1140"
+    },
+    {
+        "field1": "227",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2011",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "3022035.87",
+        "requests": "5295"
+    },
+    {
+        "field1": "228",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2011",
+        "students_reached": "5260",
+        "total_price_excluding_optional_support": "232820.29",
+        "requests": "89"
+    },
+    {
+        "field1": "229",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2011",
+        "students_reached": "12439",
+        "total_price_excluding_optional_support": "643618.25",
+        "requests": "224"
+    },
+    {
+        "field1": "230",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2011",
+        "students_reached": "204",
+        "total_price_excluding_optional_support": "28869.3",
+        "requests": "7"
+    },
+    {
+        "field1": "231",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2011",
+        "students_reached": "1275",
+        "total_price_excluding_optional_support": "33799.55",
+        "requests": "20"
+    },
+    {
+        "field1": "232",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2011",
+        "students_reached": "3786",
+        "total_price_excluding_optional_support": "15099.32",
+        "requests": "19"
+    },
+    {
+        "field1": "233",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2011",
+        "students_reached": "7291",
+        "total_price_excluding_optional_support": "61244.49",
+        "requests": "35"
+    },
+    {
+        "field1": "234",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2011",
+        "students_reached": "100",
+        "total_price_excluding_optional_support": "1557.5",
+        "requests": "1"
+    },
+    {
+        "field1": "235",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2011",
+        "students_reached": "1257",
+        "total_price_excluding_optional_support": "12502.17",
+        "requests": "5"
+    },
+    {
+        "field1": "238",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2012",
+        "students_reached": "482447",
+        "total_price_excluding_optional_support": "2521605.03",
+        "requests": "6149"
+    },
+    {
+        "field1": "239",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2012",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "5884305.18",
+        "requests": "14369"
+    },
+    {
+        "field1": "240",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2012",
+        "students_reached": "47316",
+        "total_price_excluding_optional_support": "270721.18",
+        "requests": "609"
+    },
+    {
+        "field1": "241",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2012",
+        "students_reached": "234819",
+        "total_price_excluding_optional_support": "1179866.84",
+        "requests": "2853"
+    },
+    {
+        "field1": "242",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2012",
+        "students_reached": "318714",
+        "total_price_excluding_optional_support": "1568551.81",
+        "requests": "3425"
+    },
+    {
+        "field1": "243",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2012",
+        "students_reached": "649330",
+        "total_price_excluding_optional_support": "3343476.07",
+        "requests": "7353"
+    },
+    {
+        "field1": "244",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2012",
+        "students_reached": "38426",
+        "total_price_excluding_optional_support": "164765.93",
+        "requests": "354"
+    },
+    {
+        "field1": "245",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2012",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "811565.38",
+        "requests": "1815"
+    },
+    {
+        "field1": "246",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2012",
+        "students_reached": "1073070",
+        "total_price_excluding_optional_support": "4325734.57",
+        "requests": "10096"
+    },
+    {
+        "field1": "247",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2012",
+        "students_reached": "2257393",
+        "total_price_excluding_optional_support": "9605808.38",
+        "requests": "22257"
+    },
+    {
+        "field1": "248",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2012",
+        "students_reached": "102126",
+        "total_price_excluding_optional_support": "472776.88",
+        "requests": "1007"
+    },
+    {
+        "field1": "249",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2012",
+        "students_reached": "530184",
+        "total_price_excluding_optional_support": "2188304.63",
+        "requests": "5008"
+    },
+    {
+        "field1": "250",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2012",
+        "students_reached": "1153762",
+        "total_price_excluding_optional_support": "7315629.27",
+        "requests": "11973"
+    },
+    {
+        "field1": "251",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2012",
+        "students_reached": "1913278",
+        "total_price_excluding_optional_support": "13116024.78",
+        "requests": "21156"
+    },
+    {
+        "field1": "252",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2012",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1262055.71",
+        "requests": "1755"
+    },
+    {
+        "field1": "253",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2012",
+        "students_reached": "636282",
+        "total_price_excluding_optional_support": "4184551.75",
+        "requests": "6455"
+    },
+    {
+        "field1": "254",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2012",
+        "students_reached": "46373",
+        "total_price_excluding_optional_support": "516738.98",
+        "requests": "181"
+    },
+    {
+        "field1": "255",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2012",
+        "students_reached": "111311",
+        "total_price_excluding_optional_support": "1579119.98",
+        "requests": "590"
+    },
+    {
+        "field1": "256",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2012",
+        "students_reached": "3799",
+        "total_price_excluding_optional_support": "42545.48",
+        "requests": "23"
+    },
+    {
+        "field1": "257",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2012",
+        "students_reached": "22366",
+        "total_price_excluding_optional_support": "229053.37",
+        "requests": "76"
+    },
+    {
+        "field1": "258",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2012",
+        "students_reached": "6527",
+        "total_price_excluding_optional_support": "32855.09",
+        "requests": "33"
+    },
+    {
+        "field1": "259",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2012",
+        "students_reached": "12470",
+        "total_price_excluding_optional_support": "75178.92",
+        "requests": "69"
+    },
+    {
+        "field1": "260",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2012",
+        "students_reached": "596",
+        "total_price_excluding_optional_support": "4747.95",
+        "requests": "5"
+    },
+    {
+        "field1": "261",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2012",
+        "students_reached": "1562",
+        "total_price_excluding_optional_support": "17050.6",
+        "requests": "12"
+    },
+    {
+        "field1": "265",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2629119.05",
+        "requests": "5951"
+    },
+    {
+        "field1": "266",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "6578902.97",
+        "requests": "14840"
+    },
+    {
+        "field1": "267",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "289859.67",
+        "requests": "586"
+    },
+    {
+        "field1": "268",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1573399.98",
+        "requests": "3278"
+    },
+    {
+        "field1": "269",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1987101.51",
+        "requests": "3628"
+    },
+    {
+        "field1": "270",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "3949500.95",
+        "requests": "8338"
+    },
+    {
+        "field1": "271",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2013",
+        "students_reached": "31019",
+        "total_price_excluding_optional_support": "172298.85",
+        "requests": "338"
+    },
+    {
+        "field1": "272",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1067667.25",
+        "requests": "2071"
+    },
+    {
+        "field1": "273",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "4889265.04",
+        "requests": "10086"
+    },
+    {
+        "field1": "274",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "11392242.62",
+        "requests": "24892"
+    },
+    {
+        "field1": "275",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "481605.32",
+        "requests": "904"
+    },
+    {
+        "field1": "276",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "2973631.1",
+        "requests": "5589"
+    },
+    {
+        "field1": "277",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "10025221.49",
+        "requests": "13177"
+    },
+    {
+        "field1": "278",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "18351159.05",
+        "requests": "25767"
+    },
+    {
+        "field1": "279",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "1627015.82",
+        "requests": "1816"
+    },
+    {
+        "field1": "280",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2013",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "7382586.91",
+        "requests": "9353"
+    },
+    {
+        "field1": "281",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2013",
+        "students_reached": "7176",
+        "total_price_excluding_optional_support": "295229.26",
+        "requests": "110"
+    },
+    {
+        "field1": "282",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2013",
+        "students_reached": "19812",
+        "total_price_excluding_optional_support": "1063604.09",
+        "requests": "371"
+    },
+    {
+        "field1": "283",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2013",
+        "students_reached": "113",
+        "total_price_excluding_optional_support": "20262.78",
+        "requests": "4"
+    },
+    {
+        "field1": "284",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2013",
+        "students_reached": "2227",
+        "total_price_excluding_optional_support": "165669.4",
+        "requests": "47"
+    },
+    {
+        "field1": "285",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2013",
+        "students_reached": "6251",
+        "total_price_excluding_optional_support": "41006.27",
+        "requests": "34"
+    },
+    {
+        "field1": "286",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2013",
+        "students_reached": "19051",
+        "total_price_excluding_optional_support": "105871.66",
+        "requests": "96"
+    },
+    {
+        "field1": "287",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2013",
+        "students_reached": "83",
+        "total_price_excluding_optional_support": "131.5",
+        "requests": "1"
+    },
+    {
+        "field1": "288",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2013",
+        "students_reached": "2742",
+        "total_price_excluding_optional_support": "35482.05",
+        "requests": "21"
+    },
+    {
+        "field1": "293",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2014",
+        "students_reached": "619335",
+        "total_price_excluding_optional_support": "3403847.34",
+        "requests": "7196"
+    },
+    {
+        "field1": "294",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2014",
+        "students_reached": "1366543",
+        "total_price_excluding_optional_support": "8993710.72",
+        "requests": "18000"
+    },
+    {
+        "field1": "295",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2014",
+        "students_reached": "41925",
+        "total_price_excluding_optional_support": "333645.37",
+        "requests": "589"
+    },
+    {
+        "field1": "296",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2014",
+        "students_reached": "349339",
+        "total_price_excluding_optional_support": "1857329.83",
+        "requests": "3909"
+    },
+    {
+        "field1": "297",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2014",
+        "students_reached": "463475",
+        "total_price_excluding_optional_support": "2684008.61",
+        "requests": "4891"
+    },
+    {
+        "field1": "298",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2014",
+        "students_reached": "1008660",
+        "total_price_excluding_optional_support": "6229425.45",
+        "requests": "11234"
+    },
+    {
+        "field1": "299",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2014",
+        "students_reached": "34232",
+        "total_price_excluding_optional_support": "249551.61",
+        "requests": "368"
+    },
+    {
+        "field1": "300",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2014",
+        "students_reached": "255915",
+        "total_price_excluding_optional_support": "1569020.07",
+        "requests": "2684"
+    },
+    {
+        "field1": "301",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2014",
+        "students_reached": "1394606",
+        "total_price_excluding_optional_support": "6712278.96",
+        "requests": "13067"
+    },
+    {
+        "field1": "302",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2014",
+        "students_reached": "0",
+        "total_price_excluding_optional_support": "17899887.46",
+        "requests": "34153"
+    },
+    {
+        "field1": "303",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2014",
+        "students_reached": "133556",
+        "total_price_excluding_optional_support": "668958.69",
+        "requests": "1090"
+    },
+    {
+        "field1": "304",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2014",
+        "students_reached": "757483",
+        "total_price_excluding_optional_support": "3972653.19",
+        "requests": "7210"
+    },
+    {
+        "field1": "305",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2014",
+        "students_reached": "1588596",
+        "total_price_excluding_optional_support": "15916036.25",
+        "requests": "16748"
+    },
+    {
+        "field1": "306",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2014",
+        "students_reached": "2980406",
+        "total_price_excluding_optional_support": "30936581.22",
+        "requests": "32584"
+    },
+    {
+        "field1": "307",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2014",
+        "students_reached": "220841",
+        "total_price_excluding_optional_support": "2523809.04",
+        "requests": "2116"
+    },
+    {
+        "field1": "308",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2014",
+        "students_reached": "1153926",
+        "total_price_excluding_optional_support": "12716217.78",
+        "requests": "12142"
+    },
+    {
+        "field1": "309",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2014",
+        "students_reached": "29470",
+        "total_price_excluding_optional_support": "736623.77",
+        "requests": "453"
+    },
+    {
+        "field1": "310",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2014",
+        "students_reached": "62709",
+        "total_price_excluding_optional_support": "2560814.07",
+        "requests": "1186"
+    },
+    {
+        "field1": "311",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2014",
+        "students_reached": "925",
+        "total_price_excluding_optional_support": "38343.73",
+        "requests": "31"
+    },
+    {
+        "field1": "312",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2014",
+        "students_reached": "14142",
+        "total_price_excluding_optional_support": "332935.3",
+        "requests": "238"
+    },
+    {
+        "field1": "313",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2014",
+        "students_reached": "27539",
+        "total_price_excluding_optional_support": "163970.98",
+        "requests": "112"
+    },
+    {
+        "field1": "314",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2014",
+        "students_reached": "45745",
+        "total_price_excluding_optional_support": "294108.63",
+        "requests": "250"
+    },
+    {
+        "field1": "315",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2014",
+        "students_reached": "1771",
+        "total_price_excluding_optional_support": "7628.38",
+        "requests": "9"
+    },
+    {
+        "field1": "316",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2014",
+        "students_reached": "13144",
+        "total_price_excluding_optional_support": "76459.85",
+        "requests": "61"
+    },
+    {
+        "field1": "319",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2015",
+        "students_reached": "628487",
+        "total_price_excluding_optional_support": "3521850.68",
+        "requests": "7356"
+    },
+    {
+        "field1": "320",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2015",
+        "students_reached": "1444399",
+        "total_price_excluding_optional_support": "8903212.37",
+        "requests": "17854"
+    },
+    {
+        "field1": "321",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2015",
+        "students_reached": "61598",
+        "total_price_excluding_optional_support": "459608.47",
+        "requests": "830"
+    },
+    {
+        "field1": "322",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2015",
+        "students_reached": "318963",
+        "total_price_excluding_optional_support": "1837759.77",
+        "requests": "3856"
+    },
+    {
+        "field1": "323",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2015",
+        "students_reached": "587762",
+        "total_price_excluding_optional_support": "3836839.26",
+        "requests": "6476"
+    },
+    {
+        "field1": "324",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2015",
+        "students_reached": "1333503",
+        "total_price_excluding_optional_support": "8532092.91",
+        "requests": "14349"
+    },
+    {
+        "field1": "325",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2015",
+        "students_reached": "53718",
+        "total_price_excluding_optional_support": "474726.98",
+        "requests": "699"
+    },
+    {
+        "field1": "326",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2015",
+        "students_reached": "324387",
+        "total_price_excluding_optional_support": "2239622.23",
+        "requests": "3628"
+    },
+    {
+        "field1": "327",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2015",
+        "students_reached": "1703006",
+        "total_price_excluding_optional_support": "8528923.97",
+        "requests": "15887"
+    },
+    {
+        "field1": "328",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2015",
+        "students_reached": "3820712",
+        "total_price_excluding_optional_support": "20737003.76",
+        "requests": "38695"
+    },
+    {
+        "field1": "329",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2015",
+        "students_reached": "183277",
+        "total_price_excluding_optional_support": "990990.28",
+        "requests": "1686"
+    },
+    {
+        "field1": "330",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2015",
+        "students_reached": "854814",
+        "total_price_excluding_optional_support": "4830310.11",
+        "requests": "8354"
+    },
+    {
+        "field1": "331",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2015",
+        "students_reached": "1769007",
+        "total_price_excluding_optional_support": "16633573.44",
+        "requests": "18300"
+    },
+    {
+        "field1": "332",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2015",
+        "students_reached": "3114227",
+        "total_price_excluding_optional_support": "31870444.66",
+        "requests": "34875"
+    },
+    {
+        "field1": "333",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2015",
+        "students_reached": "251085",
+        "total_price_excluding_optional_support": "2361516.41",
+        "requests": "2374"
+    },
+    {
+        "field1": "334",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2015",
+        "students_reached": "1142213",
+        "total_price_excluding_optional_support": "11112403.24",
+        "requests": "12064"
+    },
+    {
+        "field1": "335",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2015",
+        "students_reached": "116464",
+        "total_price_excluding_optional_support": "1816040.71",
+        "requests": "1026"
+    },
+    {
+        "field1": "336",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2015",
+        "students_reached": "270272",
+        "total_price_excluding_optional_support": "5299040.81",
+        "requests": "2757"
+    },
+    {
+        "field1": "337",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2015",
+        "students_reached": "10371",
+        "total_price_excluding_optional_support": "134839.91",
+        "requests": "84"
+    },
+    {
+        "field1": "338",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2015",
+        "students_reached": "75978",
+        "total_price_excluding_optional_support": "1050195.06",
+        "requests": "641"
+    },
+    {
+        "field1": "339",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2015",
+        "students_reached": "30359",
+        "total_price_excluding_optional_support": "179591.61",
+        "requests": "154"
+    },
+    {
+        "field1": "340",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2015",
+        "students_reached": "57195",
+        "total_price_excluding_optional_support": "411852.71",
+        "requests": "308"
+    },
+    {
+        "field1": "341",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2015",
+        "students_reached": "3412",
+        "total_price_excluding_optional_support": "16813.37",
+        "requests": "16"
+    },
+    {
+        "field1": "342",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2015",
+        "students_reached": "20996",
+        "total_price_excluding_optional_support": "169947.37",
+        "requests": "99"
+    },
+    {
+        "field1": "343",
+        "poverty_level": "high poverty",
+        "resource_type": "Books",
+        "date_posted": "2016",
+        "students_reached": "584211",
+        "total_price_excluding_optional_support": "3300968.52",
+        "requests": "7117"
+    },
+    {
+        "field1": "344",
+        "poverty_level": "highest poverty",
+        "resource_type": "Books",
+        "date_posted": "2016",
+        "students_reached": "1336969",
+        "total_price_excluding_optional_support": "8683670.19",
+        "requests": "17903"
+    },
+    {
+        "field1": "345",
+        "poverty_level": "low poverty",
+        "resource_type": "Books",
+        "date_posted": "2016",
+        "students_reached": "65536",
+        "total_price_excluding_optional_support": "516160.45",
+        "requests": "970"
+    },
+    {
+        "field1": "346",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Books",
+        "date_posted": "2016",
+        "students_reached": "323694",
+        "total_price_excluding_optional_support": "1745614.88",
+        "requests": "3773"
+    },
+    {
+        "field1": "347",
+        "poverty_level": "high poverty",
+        "resource_type": "Other",
+        "date_posted": "2016",
+        "students_reached": "279220",
+        "total_price_excluding_optional_support": "2013319.44",
+        "requests": "3409"
+    },
+    {
+        "field1": "348",
+        "poverty_level": "highest poverty",
+        "resource_type": "Other",
+        "date_posted": "2016",
+        "students_reached": "620072",
+        "total_price_excluding_optional_support": "4340134.78",
+        "requests": "7067"
+    },
+    {
+        "field1": "349",
+        "poverty_level": "low poverty",
+        "resource_type": "Other",
+        "date_posted": "2016",
+        "students_reached": "23435",
+        "total_price_excluding_optional_support": "218966.31",
+        "requests": "355"
+    },
+    {
+        "field1": "350",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Other",
+        "date_posted": "2016",
+        "students_reached": "161843",
+        "total_price_excluding_optional_support": "1233566.05",
+        "requests": "1944"
+    },
+    {
+        "field1": "351",
+        "poverty_level": "high poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2016",
+        "students_reached": "2632385",
+        "total_price_excluding_optional_support": "15923250.9",
+        "requests": "28121"
+    },
+    {
+        "field1": "352",
+        "poverty_level": "highest poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2016",
+        "students_reached": "5747225",
+        "total_price_excluding_optional_support": "35360745.45",
+        "requests": "63830"
+    },
+    {
+        "field1": "353",
+        "poverty_level": "low poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2016",
+        "students_reached": "384287",
+        "total_price_excluding_optional_support": "2202992.12",
+        "requests": "3771"
+    },
+    {
+        "field1": "354",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Supplies",
+        "date_posted": "2016",
+        "students_reached": "1416435",
+        "total_price_excluding_optional_support": "8936115.24",
+        "requests": "15684"
+    },
+    {
+        "field1": "355",
+        "poverty_level": "high poverty",
+        "resource_type": "Technology",
+        "date_posted": "2016",
+        "students_reached": "1728321",
+        "total_price_excluding_optional_support": "14921570.58",
+        "requests": "17181"
+    },
+    {
+        "field1": "356",
+        "poverty_level": "highest poverty",
+        "resource_type": "Technology",
+        "date_posted": "2016",
+        "students_reached": "3094412",
+        "total_price_excluding_optional_support": "29924769.29",
+        "requests": "34072"
+    },
+    {
+        "field1": "357",
+        "poverty_level": "low poverty",
+        "resource_type": "Technology",
+        "date_posted": "2016",
+        "students_reached": "232947",
+        "total_price_excluding_optional_support": "2113323.28",
+        "requests": "2399"
+    },
+    {
+        "field1": "358",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Technology",
+        "date_posted": "2016",
+        "students_reached": "1017060",
+        "total_price_excluding_optional_support": "8760188.4",
+        "requests": "10182"
+    },
+    {
+        "field1": "359",
+        "poverty_level": "high poverty",
+        "resource_type": "Trips",
+        "date_posted": "2016",
+        "students_reached": "61586",
+        "total_price_excluding_optional_support": "1074972.47",
+        "requests": "752"
+    },
+    {
+        "field1": "360",
+        "poverty_level": "highest poverty",
+        "resource_type": "Trips",
+        "date_posted": "2016",
+        "students_reached": "125334",
+        "total_price_excluding_optional_support": "3021132.48",
+        "requests": "1831"
+    },
+    {
+        "field1": "361",
+        "poverty_level": "low poverty",
+        "resource_type": "Trips",
+        "date_posted": "2016",
+        "students_reached": "5607",
+        "total_price_excluding_optional_support": "76751.5",
+        "requests": "63"
+    },
+    {
+        "field1": "362",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Trips",
+        "date_posted": "2016",
+        "students_reached": "34313",
+        "total_price_excluding_optional_support": "765777.52",
+        "requests": "354"
+    },
+    {
+        "field1": "363",
+        "poverty_level": "high poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2016",
+        "students_reached": "23920",
+        "total_price_excluding_optional_support": "203418.12",
+        "requests": "128"
+    },
+    {
+        "field1": "364",
+        "poverty_level": "highest poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2016",
+        "students_reached": "47495",
+        "total_price_excluding_optional_support": "425465.59",
+        "requests": "273"
+    },
+    {
+        "field1": "365",
+        "poverty_level": "low poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2016",
+        "students_reached": "2684",
+        "total_price_excluding_optional_support": "20701.37",
+        "requests": "18"
+    },
+    {
+        "field1": "366",
+        "poverty_level": "moderate poverty",
+        "resource_type": "Visitors",
+        "date_posted": "2016",
+        "students_reached": "11875",
+        "total_price_excluding_optional_support": "77299.61",
+        "requests": "64"
+    }
+]

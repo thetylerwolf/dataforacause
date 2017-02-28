@@ -1,0 +1,3385 @@
+[
+  {
+    "key": "low poverty",
+    "values": [
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "6",
+            "requests": 1,
+            "price": 0,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "27",
+            "requests": 10,
+            "price": 5016.63,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "47",
+            "requests": 8,
+            "price": 2704.37,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 495,
+            "resource": "Other"
+          },
+          {
+            "field1": "71",
+            "requests": 3,
+            "price": 1176.29,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 233,
+            "resource": "Other"
+          },
+          {
+            "field1": "95",
+            "requests": 19,
+            "price": 12480.06,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 1572,
+            "resource": "Other"
+          },
+          {
+            "field1": "119",
+            "requests": 65,
+            "price": 28801.56,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 4010,
+            "resource": "Other"
+          },
+          {
+            "field1": "143",
+            "requests": 96,
+            "price": 41023.59,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 6832,
+            "resource": "Other"
+          },
+          {
+            "field1": "168",
+            "requests": 102,
+            "price": 0,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 5649,
+            "resource": "Other"
+          },
+          {
+            "field1": "192",
+            "requests": 216,
+            "price": 101766.74,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 18698,
+            "resource": "Other"
+          },
+          {
+            "field1": "218",
+            "requests": 319,
+            "price": 141555.21,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 29706,
+            "resource": "Other"
+          },
+          {
+            "field1": "244",
+            "requests": 354,
+            "price": 164765.93,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 38426,
+            "resource": "Other"
+          },
+          {
+            "field1": "271",
+            "requests": 338,
+            "price": 172298.85,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 31019,
+            "resource": "Other"
+          },
+          {
+            "field1": "299",
+            "requests": 368,
+            "price": 249551.61,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 34232,
+            "resource": "Other"
+          },
+          {
+            "field1": "325",
+            "requests": 699,
+            "price": 474726.98,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 53718,
+            "resource": "Other"
+          },
+          {
+            "field1": "349",
+            "requests": 355,
+            "price": 218966.31,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 23435,
+            "resource": "Other"
+          }
+        ],
+        "price": 1614834.13,
+        "students": 248025,
+        "requests": 2953
+      },
+      {
+        "key": "Supplies",
+        "values": [
+          {
+            "field1": "9",
+            "requests": 14,
+            "price": 8539.78,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "31",
+            "requests": 14,
+            "price": 6678.22,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "51",
+            "requests": 30,
+            "price": 16389.55,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 3352,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "75",
+            "requests": 45,
+            "price": 28762.51,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 5626,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "99",
+            "requests": 121,
+            "price": 66597.99,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 7805,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "123",
+            "requests": 235,
+            "price": 97422.63,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 17685,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "147",
+            "requests": 353,
+            "price": 139215.52,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 30827,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "172",
+            "requests": 484,
+            "price": 192867.93,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 36206,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "196",
+            "requests": 686,
+            "price": 294202.07,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 72290,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "222",
+            "requests": 973,
+            "price": 428288.79,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 96346,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "248",
+            "requests": 1007,
+            "price": 472776.88,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 102126,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "275",
+            "requests": 904,
+            "price": 481605.32,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "303",
+            "requests": 1090,
+            "price": 668958.69,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 133556,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "329",
+            "requests": 1686,
+            "price": 990990.28,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 183277,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "353",
+            "requests": 3771,
+            "price": 2202992.12,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 384287,
+            "resource": "Supplies"
+          }
+        ],
+        "price": 6096288.28,
+        "students": 1073383,
+        "requests": 11413
+      },
+      {
+        "key": "Technology",
+        "values": [
+          {
+            "field1": "13",
+            "requests": 8,
+            "price": 4533.75,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "35",
+            "requests": 8,
+            "price": 8672.98,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 20,
+            "resource": "Technology"
+          },
+          {
+            "field1": "55",
+            "requests": 10,
+            "price": 7498.94,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 1293,
+            "resource": "Technology"
+          },
+          {
+            "field1": "79",
+            "requests": 50,
+            "price": 50002.22,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 6496,
+            "resource": "Technology"
+          },
+          {
+            "field1": "103",
+            "requests": 85,
+            "price": 87129.12,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 12697,
+            "resource": "Technology"
+          },
+          {
+            "field1": "127",
+            "requests": 188,
+            "price": 164152.52,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 19558,
+            "resource": "Technology"
+          },
+          {
+            "field1": "151",
+            "requests": 285,
+            "price": 170532.49,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 27892,
+            "resource": "Technology"
+          },
+          {
+            "field1": "176",
+            "requests": 406,
+            "price": 239675.97,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 35645,
+            "resource": "Technology"
+          },
+          {
+            "field1": "200",
+            "requests": 942,
+            "price": 640885.64,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 115912,
+            "resource": "Technology"
+          },
+          {
+            "field1": "226",
+            "requests": 1140,
+            "price": 710246.29,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 112515,
+            "resource": "Technology"
+          },
+          {
+            "field1": "252",
+            "requests": 1755,
+            "price": 1262055.71,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "279",
+            "requests": 1816,
+            "price": 1627015.82,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "307",
+            "requests": 2116,
+            "price": 2523809.04,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 220841,
+            "resource": "Technology"
+          },
+          {
+            "field1": "333",
+            "requests": 2374,
+            "price": 2361516.41,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 251085,
+            "resource": "Technology"
+          },
+          {
+            "field1": "357",
+            "requests": 2399,
+            "price": 2113323.28,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 232947,
+            "resource": "Technology"
+          }
+        ],
+        "price": 11971050.18,
+        "students": 1036901,
+        "requests": 13582
+      },
+      {
+        "key": "Trips",
+        "values": [
+          {
+            "field1": "17",
+            "requests": 6,
+            "price": 7365,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Trips"
+          },
+          {
+            "field1": "39",
+            "requests": 7,
+            "price": 5661.25,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Trips"
+          },
+          {
+            "field1": "59",
+            "requests": 5,
+            "price": 4301.93,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 85,
+            "resource": "Trips"
+          },
+          {
+            "field1": "83",
+            "requests": 17,
+            "price": 17149.79,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 380,
+            "resource": "Trips"
+          },
+          {
+            "field1": "107",
+            "requests": 17,
+            "price": 30232.69,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 578,
+            "resource": "Trips"
+          },
+          {
+            "field1": "131",
+            "requests": 9,
+            "price": 5714.55,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 160,
+            "resource": "Trips"
+          },
+          {
+            "field1": "155",
+            "requests": 7,
+            "price": 8241,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 253,
+            "resource": "Trips"
+          },
+          {
+            "field1": "180",
+            "requests": 4,
+            "price": 5750.07,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 59,
+            "resource": "Trips"
+          },
+          {
+            "field1": "204",
+            "requests": 13,
+            "price": 48984.33,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 844,
+            "resource": "Trips"
+          },
+          {
+            "field1": "230",
+            "requests": 7,
+            "price": 28869.3,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 204,
+            "resource": "Trips"
+          },
+          {
+            "field1": "256",
+            "requests": 23,
+            "price": 42545.48,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 3799,
+            "resource": "Trips"
+          },
+          {
+            "field1": "283",
+            "requests": 4,
+            "price": 20262.78,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 113,
+            "resource": "Trips"
+          },
+          {
+            "field1": "311",
+            "requests": 31,
+            "price": 38343.73,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 925,
+            "resource": "Trips"
+          },
+          {
+            "field1": "337",
+            "requests": 84,
+            "price": 134839.91,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 10371,
+            "resource": "Trips"
+          },
+          {
+            "field1": "361",
+            "requests": 63,
+            "price": 76751.5,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 5607,
+            "resource": "Trips"
+          }
+        ],
+        "price": 475013.30999999994,
+        "students": 23378,
+        "requests": 297
+      },
+      {
+        "key": "Visitors",
+        "values": [
+          {
+            "field1": "19",
+            "requests": 2,
+            "price": 1400,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "63",
+            "requests": 1,
+            "price": 1470.88,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 75,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "87",
+            "requests": 2,
+            "price": 2180.17,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 370,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "111",
+            "requests": 5,
+            "price": 5678.52,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 1545,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "135",
+            "requests": 4,
+            "price": 2425,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 1115,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "159",
+            "requests": 2,
+            "price": 1367,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 350,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "184",
+            "requests": 5,
+            "price": 1490.48,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 99,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "234",
+            "requests": 1,
+            "price": 1557.5,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 100,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "260",
+            "requests": 5,
+            "price": 4747.95,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 596,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "287",
+            "requests": 1,
+            "price": 131.5,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 83,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "315",
+            "requests": 9,
+            "price": 7628.38,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 1771,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "341",
+            "requests": 16,
+            "price": 16813.37,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 3412,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "365",
+            "requests": 18,
+            "price": 20701.37,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 2684,
+            "resource": "Visitors"
+          }
+        ],
+        "price": 67592.12,
+        "students": 12200,
+        "requests": 71
+      },
+      {
+        "key": "Books",
+        "values": [
+          {
+            "field1": "3",
+            "requests": 11,
+            "price": 6842.19,
+            "poverty": "low poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "23",
+            "requests": 8,
+            "price": 4713.89,
+            "poverty": "low poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "43",
+            "requests": 27,
+            "price": 18565.42,
+            "poverty": "low poverty",
+            "date": 2004,
+            "students": 1883,
+            "resource": "Books"
+          },
+          {
+            "field1": "67",
+            "requests": 41,
+            "price": 25184.27,
+            "poverty": "low poverty",
+            "date": 2005,
+            "students": 2916,
+            "resource": "Books"
+          },
+          {
+            "field1": "91",
+            "requests": 66,
+            "price": 33168.9,
+            "poverty": "low poverty",
+            "date": 2006,
+            "students": 4340,
+            "resource": "Books"
+          },
+          {
+            "field1": "115",
+            "requests": 149,
+            "price": 57759.51,
+            "poverty": "low poverty",
+            "date": 2007,
+            "students": 10546,
+            "resource": "Books"
+          },
+          {
+            "field1": "139",
+            "requests": 200,
+            "price": 74526.78,
+            "poverty": "low poverty",
+            "date": 2008,
+            "students": 14239,
+            "resource": "Books"
+          },
+          {
+            "field1": "164",
+            "requests": 270,
+            "price": 102939.86,
+            "poverty": "low poverty",
+            "date": 2009,
+            "students": 16275,
+            "resource": "Books"
+          },
+          {
+            "field1": "188",
+            "requests": 443,
+            "price": 170518.61,
+            "poverty": "low poverty",
+            "date": 2010,
+            "students": 43948,
+            "resource": "Books"
+          },
+          {
+            "field1": "214",
+            "requests": 570,
+            "price": 281585.26,
+            "poverty": "low poverty",
+            "date": 2011,
+            "students": 44153,
+            "resource": "Books"
+          },
+          {
+            "field1": "240",
+            "requests": 609,
+            "price": 270721.18,
+            "poverty": "low poverty",
+            "date": 2012,
+            "students": 47316,
+            "resource": "Books"
+          },
+          {
+            "field1": "267",
+            "requests": 586,
+            "price": 289859.67,
+            "poverty": "low poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "295",
+            "requests": 589,
+            "price": 333645.37,
+            "poverty": "low poverty",
+            "date": 2014,
+            "students": 41925,
+            "resource": "Books"
+          },
+          {
+            "field1": "321",
+            "requests": 830,
+            "price": 459608.47,
+            "poverty": "low poverty",
+            "date": 2015,
+            "students": 61598,
+            "resource": "Books"
+          },
+          {
+            "field1": "345",
+            "requests": 970,
+            "price": 516160.45,
+            "poverty": "low poverty",
+            "date": 2016,
+            "students": 65536,
+            "resource": "Books"
+          }
+        ],
+        "price": 2645799.83,
+        "students": 354675,
+        "requests": 5369
+      }
+    ],
+    "price": 22870577.85,
+    "students": 2748562,
+    "requests": 33685
+  },
+  {
+    "key": "moderate poverty",
+    "values": [
+      {
+        "key": "Books",
+        "values": [
+          {
+            "field1": "4",
+            "requests": 3,
+            "price": 918,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "24",
+            "requests": 34,
+            "price": 17430.34,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 65,
+            "resource": "Books"
+          },
+          {
+            "field1": "44",
+            "requests": 78,
+            "price": 30107.92,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 4002,
+            "resource": "Books"
+          },
+          {
+            "field1": "68",
+            "requests": 150,
+            "price": 64797.99,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 12234,
+            "resource": "Books"
+          },
+          {
+            "field1": "92",
+            "requests": 363,
+            "price": 156443.48,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 24474,
+            "resource": "Books"
+          },
+          {
+            "field1": "116",
+            "requests": 706,
+            "price": 265690.27,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 47823,
+            "resource": "Books"
+          },
+          {
+            "field1": "140",
+            "requests": 1272,
+            "price": 477850.09,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 92018,
+            "resource": "Books"
+          },
+          {
+            "field1": "165",
+            "requests": 1563,
+            "price": 579755.54,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 117827,
+            "resource": "Books"
+          },
+          {
+            "field1": "189",
+            "requests": 2343,
+            "price": 896323.38,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 255129,
+            "resource": "Books"
+          },
+          {
+            "field1": "215",
+            "requests": 2645,
+            "price": 1075981.67,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 213592,
+            "resource": "Books"
+          },
+          {
+            "field1": "241",
+            "requests": 2853,
+            "price": 1179866.84,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 234819,
+            "resource": "Books"
+          },
+          {
+            "field1": "268",
+            "requests": 3278,
+            "price": 1573399.98,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "296",
+            "requests": 3909,
+            "price": 1857329.83,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 349339,
+            "resource": "Books"
+          },
+          {
+            "field1": "322",
+            "requests": 3856,
+            "price": 1837759.77,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 318963,
+            "resource": "Books"
+          },
+          {
+            "field1": "346",
+            "requests": 3773,
+            "price": 1745614.88,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 323694,
+            "resource": "Books"
+          }
+        ],
+        "price": 11759269.98,
+        "students": 1993979,
+        "requests": 26826
+      },
+      {
+        "key": "Supplies",
+        "values": [
+          {
+            "field1": "10",
+            "requests": 13,
+            "price": 3334.9,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 20,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "32",
+            "requests": 62,
+            "price": 20549.7,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 60,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "52",
+            "requests": 237,
+            "price": 64106.8,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 12325,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "76",
+            "requests": 376,
+            "price": 167233.76,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 29624,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "100",
+            "requests": 717,
+            "price": 345497.61,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 68252,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "124",
+            "requests": 1209,
+            "price": 447408,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 109545,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "148",
+            "requests": 1885,
+            "price": 688934.72,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 834565,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "173",
+            "requests": 2462,
+            "price": 879376.66,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 204822,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "197",
+            "requests": 3632,
+            "price": 1412804.91,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "223",
+            "requests": 4655,
+            "price": 1920761.99,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 450665,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "249",
+            "requests": 5008,
+            "price": 2188304.63,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 530184,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "276",
+            "requests": 5589,
+            "price": 2973631.1,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "304",
+            "requests": 7210,
+            "price": 3972653.19,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 757483,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "330",
+            "requests": 8354,
+            "price": 4830310.11,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 854814,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "354",
+            "requests": 15684,
+            "price": 8936115.24,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 1416435,
+            "resource": "Supplies"
+          }
+        ],
+        "price": 28851023.32,
+        "students": 5268794,
+        "requests": 57093
+      },
+      {
+        "key": "Technology",
+        "values": [
+          {
+            "field1": "14",
+            "requests": 12,
+            "price": 5197.75,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "36",
+            "requests": 14,
+            "price": 5617.31,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 40,
+            "resource": "Technology"
+          },
+          {
+            "field1": "56",
+            "requests": 54,
+            "price": 29186.5,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 5489,
+            "resource": "Technology"
+          },
+          {
+            "field1": "80",
+            "requests": 166,
+            "price": 159022.66,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 17638,
+            "resource": "Technology"
+          },
+          {
+            "field1": "104",
+            "requests": 470,
+            "price": 465017.45,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 53607,
+            "resource": "Technology"
+          },
+          {
+            "field1": "128",
+            "requests": 988,
+            "price": 675628.91,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 98051,
+            "resource": "Technology"
+          },
+          {
+            "field1": "152",
+            "requests": 1630,
+            "price": 881657.56,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 157471,
+            "resource": "Technology"
+          },
+          {
+            "field1": "177",
+            "requests": 2298,
+            "price": 1370974.5,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 209331,
+            "resource": "Technology"
+          },
+          {
+            "field1": "201",
+            "requests": 3742,
+            "price": 2320170.98,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "227",
+            "requests": 5295,
+            "price": 3022035.87,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "253",
+            "requests": 6455,
+            "price": 4184551.75,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 636282,
+            "resource": "Technology"
+          },
+          {
+            "field1": "280",
+            "requests": 9353,
+            "price": 7382586.91,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "308",
+            "requests": 12142,
+            "price": 12716217.78,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 1153926,
+            "resource": "Technology"
+          },
+          {
+            "field1": "334",
+            "requests": 12064,
+            "price": 11112403.24,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 1142213,
+            "resource": "Technology"
+          },
+          {
+            "field1": "358",
+            "requests": 10182,
+            "price": 8760188.4,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 1017060,
+            "resource": "Technology"
+          }
+        ],
+        "price": 53090457.57,
+        "students": 4491108,
+        "requests": 64865
+      },
+      {
+        "key": "Visitors",
+        "values": [
+          {
+            "field1": "20",
+            "requests": 1,
+            "price": 300,
+            "poverty": "moderate poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "64",
+            "requests": 1,
+            "price": 1394,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 90,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "88",
+            "requests": 14,
+            "price": 10124.96,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 1848,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "112",
+            "requests": 16,
+            "price": 17309.34,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 3448,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "136",
+            "requests": 12,
+            "price": 13244,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 1799,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "160",
+            "requests": 7,
+            "price": 13329.15,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 1590,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "185",
+            "requests": 8,
+            "price": 5610.19,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 1001,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "208",
+            "requests": 5,
+            "price": 6503.3,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 953,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "235",
+            "requests": 5,
+            "price": 12502.17,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 1257,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "261",
+            "requests": 12,
+            "price": 17050.6,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 1562,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "288",
+            "requests": 21,
+            "price": 35482.05,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 2742,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "316",
+            "requests": 61,
+            "price": 76459.85,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 13144,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "342",
+            "requests": 99,
+            "price": 169947.37,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 20996,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "366",
+            "requests": 64,
+            "price": 77299.61,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 11875,
+            "resource": "Visitors"
+          }
+        ],
+        "price": 456556.58999999997,
+        "students": 62305,
+        "requests": 326
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "28",
+            "requests": 23,
+            "price": 2397.77,
+            "poverty": "moderate poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "48",
+            "requests": 21,
+            "price": 2648.1,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 1392,
+            "resource": "Other"
+          },
+          {
+            "field1": "72",
+            "requests": 48,
+            "price": 22655.15,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 3014,
+            "resource": "Other"
+          },
+          {
+            "field1": "96",
+            "requests": 124,
+            "price": 77601.62,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 12142,
+            "resource": "Other"
+          },
+          {
+            "field1": "120",
+            "requests": 306,
+            "price": 131682.09,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 22268,
+            "resource": "Other"
+          },
+          {
+            "field1": "144",
+            "requests": 534,
+            "price": 224408.81,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 39573,
+            "resource": "Other"
+          },
+          {
+            "field1": "169",
+            "requests": 618,
+            "price": 241950.88,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 53624,
+            "resource": "Other"
+          },
+          {
+            "field1": "193",
+            "requests": 1278,
+            "price": 521574.13,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 109558,
+            "resource": "Other"
+          },
+          {
+            "field1": "219",
+            "requests": 1619,
+            "price": 683430.55,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 134951,
+            "resource": "Other"
+          },
+          {
+            "field1": "245",
+            "requests": 1815,
+            "price": 811565.38,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "272",
+            "requests": 2071,
+            "price": 1067667.25,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "300",
+            "requests": 2684,
+            "price": 1569020.07,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 255915,
+            "resource": "Other"
+          },
+          {
+            "field1": "326",
+            "requests": 3628,
+            "price": 2239622.23,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 324387,
+            "resource": "Other"
+          },
+          {
+            "field1": "350",
+            "requests": 1944,
+            "price": 1233566.05,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 161843,
+            "resource": "Other"
+          }
+        ],
+        "price": 8829790.08,
+        "students": 1118667,
+        "requests": 16713
+      },
+      {
+        "key": "Trips",
+        "values": [
+          {
+            "field1": "60",
+            "requests": 12,
+            "price": 12453.84,
+            "poverty": "moderate poverty",
+            "date": 2004,
+            "students": 449,
+            "resource": "Trips"
+          },
+          {
+            "field1": "84",
+            "requests": 48,
+            "price": 35590.21,
+            "poverty": "moderate poverty",
+            "date": 2005,
+            "students": 1706,
+            "resource": "Trips"
+          },
+          {
+            "field1": "108",
+            "requests": 66,
+            "price": 218067.37,
+            "poverty": "moderate poverty",
+            "date": 2006,
+            "students": 2777,
+            "resource": "Trips"
+          },
+          {
+            "field1": "132",
+            "requests": 29,
+            "price": 82775.54,
+            "poverty": "moderate poverty",
+            "date": 2007,
+            "students": 1287,
+            "resource": "Trips"
+          },
+          {
+            "field1": "156",
+            "requests": 19,
+            "price": 98096.5,
+            "poverty": "moderate poverty",
+            "date": 2008,
+            "students": 1012,
+            "resource": "Trips"
+          },
+          {
+            "field1": "181",
+            "requests": 26,
+            "price": 55874.45,
+            "poverty": "moderate poverty",
+            "date": 2009,
+            "students": 1721,
+            "resource": "Trips"
+          },
+          {
+            "field1": "205",
+            "requests": 20,
+            "price": 37993.58,
+            "poverty": "moderate poverty",
+            "date": 2010,
+            "students": 1292,
+            "resource": "Trips"
+          },
+          {
+            "field1": "231",
+            "requests": 20,
+            "price": 33799.55,
+            "poverty": "moderate poverty",
+            "date": 2011,
+            "students": 1275,
+            "resource": "Trips"
+          },
+          {
+            "field1": "257",
+            "requests": 76,
+            "price": 229053.37,
+            "poverty": "moderate poverty",
+            "date": 2012,
+            "students": 22366,
+            "resource": "Trips"
+          },
+          {
+            "field1": "284",
+            "requests": 47,
+            "price": 165669.4,
+            "poverty": "moderate poverty",
+            "date": 2013,
+            "students": 2227,
+            "resource": "Trips"
+          },
+          {
+            "field1": "312",
+            "requests": 238,
+            "price": 332935.3,
+            "poverty": "moderate poverty",
+            "date": 2014,
+            "students": 14142,
+            "resource": "Trips"
+          },
+          {
+            "field1": "338",
+            "requests": 641,
+            "price": 1050195.06,
+            "poverty": "moderate poverty",
+            "date": 2015,
+            "students": 75978,
+            "resource": "Trips"
+          },
+          {
+            "field1": "362",
+            "requests": 354,
+            "price": 765777.52,
+            "poverty": "moderate poverty",
+            "date": 2016,
+            "students": 34313,
+            "resource": "Trips"
+          }
+        ],
+        "price": 3118281.69,
+        "students": 160545,
+        "requests": 1596
+      }
+    ],
+    "price": 106105379.23,
+    "students": 13095398,
+    "requests": 167419
+  },
+  {
+    "key": "high poverty",
+    "values": [
+      {
+        "key": "Books",
+        "values": [
+          {
+            "field1": "1",
+            "requests": 2,
+            "price": 703,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "21",
+            "requests": 12,
+            "price": 6447.39,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 160,
+            "resource": "Books"
+          },
+          {
+            "field1": "41",
+            "requests": 155,
+            "price": 56064.48,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 13053,
+            "resource": "Books"
+          },
+          {
+            "field1": "65",
+            "requests": 395,
+            "price": 177878.5,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 38753,
+            "resource": "Books"
+          },
+          {
+            "field1": "89",
+            "requests": 880,
+            "price": 399619.21,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 71647,
+            "resource": "Books"
+          },
+          {
+            "field1": "113",
+            "requests": 1629,
+            "price": 668148.18,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 126455,
+            "resource": "Books"
+          },
+          {
+            "field1": "137",
+            "requests": 2569,
+            "price": 946602.76,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 172714,
+            "resource": "Books"
+          },
+          {
+            "field1": "162",
+            "requests": 3646,
+            "price": 1394934.79,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 304833,
+            "resource": "Books"
+          },
+          {
+            "field1": "186",
+            "requests": 4687,
+            "price": 1841773.44,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "212",
+            "requests": 5419,
+            "price": 2274225.32,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 462145,
+            "resource": "Books"
+          },
+          {
+            "field1": "238",
+            "requests": 6149,
+            "price": 2521605.03,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 482447,
+            "resource": "Books"
+          },
+          {
+            "field1": "265",
+            "requests": 5951,
+            "price": 2629119.05,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "293",
+            "requests": 7196,
+            "price": 3403847.34,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 619335,
+            "resource": "Books"
+          },
+          {
+            "field1": "319",
+            "requests": 7356,
+            "price": 3521850.68,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 628487,
+            "resource": "Books"
+          },
+          {
+            "field1": "343",
+            "requests": 7117,
+            "price": 3300968.52,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 584211,
+            "resource": "Books"
+          }
+        ],
+        "price": 23143787.689999998,
+        "students": 3504240,
+        "requests": 53163
+      },
+      {
+        "key": "Supplies",
+        "values": [
+          {
+            "field1": "7",
+            "requests": 6,
+            "price": 2231.57,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 40,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "29",
+            "requests": 26,
+            "price": 17167.85,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 260,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "49",
+            "requests": 290,
+            "price": 106098.55,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 40275,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "73",
+            "requests": 633,
+            "price": 329887.66,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 60896,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "97",
+            "requests": 1546,
+            "price": 761437.33,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 140651,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "121",
+            "requests": 2228,
+            "price": 887708.37,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 240683,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "145",
+            "requests": 4125,
+            "price": 1486768.79,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 349127,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "170",
+            "requests": 5605,
+            "price": 2078033.98,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 536229,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "194",
+            "requests": 6764,
+            "price": 2731922.47,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "220",
+            "requests": 8637,
+            "price": 3501794.66,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "246",
+            "requests": 10096,
+            "price": 4325734.57,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 1073070,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "273",
+            "requests": 10086,
+            "price": 4889265.04,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "301",
+            "requests": 13067,
+            "price": 6712278.96,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 1394606,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "327",
+            "requests": 15887,
+            "price": 8528923.97,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 1703006,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "351",
+            "requests": 28121,
+            "price": 15923250.9,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 2632385,
+            "resource": "Supplies"
+          }
+        ],
+        "price": 52282504.67,
+        "students": 8171228,
+        "requests": 107117
+      },
+      {
+        "key": "Technology",
+        "values": [
+          {
+            "field1": "11",
+            "requests": 2,
+            "price": 1777,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 20,
+            "resource": "Technology"
+          },
+          {
+            "field1": "33",
+            "requests": 7,
+            "price": 5118.39,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 40,
+            "resource": "Technology"
+          },
+          {
+            "field1": "53",
+            "requests": 112,
+            "price": 81762.63,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 15641,
+            "resource": "Technology"
+          },
+          {
+            "field1": "77",
+            "requests": 392,
+            "price": 393715.04,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 52862,
+            "resource": "Technology"
+          },
+          {
+            "field1": "101",
+            "requests": 1119,
+            "price": 1112665.58,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 132482,
+            "resource": "Technology"
+          },
+          {
+            "field1": "125",
+            "requests": 1866,
+            "price": 1433465.99,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 203953,
+            "resource": "Technology"
+          },
+          {
+            "field1": "149",
+            "requests": 3027,
+            "price": 1726005.94,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 281404,
+            "resource": "Technology"
+          },
+          {
+            "field1": "174",
+            "requests": 5114,
+            "price": 3175141.92,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 500014,
+            "resource": "Technology"
+          },
+          {
+            "field1": "198",
+            "requests": 6583,
+            "price": 4251795.69,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "224",
+            "requests": 8614,
+            "price": 4858261.26,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 907277,
+            "resource": "Technology"
+          },
+          {
+            "field1": "250",
+            "requests": 11973,
+            "price": 7315629.27,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 1153762,
+            "resource": "Technology"
+          },
+          {
+            "field1": "277",
+            "requests": 13177,
+            "price": 10025221.49,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "305",
+            "requests": 16748,
+            "price": 15916036.25,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 1588596,
+            "resource": "Technology"
+          },
+          {
+            "field1": "331",
+            "requests": 18300,
+            "price": 16633573.44,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 1769007,
+            "resource": "Technology"
+          },
+          {
+            "field1": "355",
+            "requests": 17181,
+            "price": 14921570.58,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 1728321,
+            "resource": "Technology"
+          }
+        ],
+        "price": 81851740.47,
+        "students": 8333379,
+        "requests": 104215
+      },
+      {
+        "key": "Trips",
+        "values": [
+          {
+            "field1": "15",
+            "requests": 1,
+            "price": 140,
+            "poverty": "high poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Trips"
+          },
+          {
+            "field1": "37",
+            "requests": 3,
+            "price": 1695.35,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 20,
+            "resource": "Trips"
+          },
+          {
+            "field1": "57",
+            "requests": 13,
+            "price": 6997.32,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 366,
+            "resource": "Trips"
+          },
+          {
+            "field1": "81",
+            "requests": 69,
+            "price": 92322.72,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 2269,
+            "resource": "Trips"
+          },
+          {
+            "field1": "105",
+            "requests": 162,
+            "price": 276574.86,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 7086,
+            "resource": "Trips"
+          },
+          {
+            "field1": "129",
+            "requests": 88,
+            "price": 170959.11,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 4582,
+            "resource": "Trips"
+          },
+          {
+            "field1": "153",
+            "requests": 36,
+            "price": 37534.7,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 1412,
+            "resource": "Trips"
+          },
+          {
+            "field1": "178",
+            "requests": 51,
+            "price": 118798.24,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 3740,
+            "resource": "Trips"
+          },
+          {
+            "field1": "202",
+            "requests": 50,
+            "price": 132811.27,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 2812,
+            "resource": "Trips"
+          },
+          {
+            "field1": "228",
+            "requests": 89,
+            "price": 232820.29,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 5260,
+            "resource": "Trips"
+          },
+          {
+            "field1": "254",
+            "requests": 181,
+            "price": 516738.98,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 46373,
+            "resource": "Trips"
+          },
+          {
+            "field1": "281",
+            "requests": 110,
+            "price": 295229.26,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 7176,
+            "resource": "Trips"
+          },
+          {
+            "field1": "309",
+            "requests": 453,
+            "price": 736623.77,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 29470,
+            "resource": "Trips"
+          },
+          {
+            "field1": "335",
+            "requests": 1026,
+            "price": 1816040.71,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 116464,
+            "resource": "Trips"
+          },
+          {
+            "field1": "359",
+            "requests": 752,
+            "price": 1074972.47,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 61586,
+            "resource": "Trips"
+          }
+        ],
+        "price": 5510259.05,
+        "students": 288616,
+        "requests": 3084
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "25",
+            "requests": 7,
+            "price": 3229.48,
+            "poverty": "high poverty",
+            "date": 2003,
+            "students": 80,
+            "resource": "Other"
+          },
+          {
+            "field1": "45",
+            "requests": 36,
+            "price": 12846.28,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 2396,
+            "resource": "Other"
+          },
+          {
+            "field1": "69",
+            "requests": 83,
+            "price": 36278.15,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 7443,
+            "resource": "Other"
+          },
+          {
+            "field1": "93",
+            "requests": 297,
+            "price": 161792.81,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 34305,
+            "resource": "Other"
+          },
+          {
+            "field1": "117",
+            "requests": 565,
+            "price": 292127.65,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 47165,
+            "resource": "Other"
+          },
+          {
+            "field1": "141",
+            "requests": 1037,
+            "price": 414795.51,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 72422,
+            "resource": "Other"
+          },
+          {
+            "field1": "166",
+            "requests": 1451,
+            "price": 619021.12,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 109287,
+            "resource": "Other"
+          },
+          {
+            "field1": "190",
+            "requests": 2297,
+            "price": 933774.29,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 203262,
+            "resource": "Other"
+          },
+          {
+            "field1": "216",
+            "requests": 3086,
+            "price": 1304187.33,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 277464,
+            "resource": "Other"
+          },
+          {
+            "field1": "242",
+            "requests": 3425,
+            "price": 1568551.81,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 318714,
+            "resource": "Other"
+          },
+          {
+            "field1": "269",
+            "requests": 3628,
+            "price": 1987101.51,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "297",
+            "requests": 4891,
+            "price": 2684008.61,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 463475,
+            "resource": "Other"
+          },
+          {
+            "field1": "323",
+            "requests": 6476,
+            "price": 3836839.26,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 587762,
+            "resource": "Other"
+          },
+          {
+            "field1": "347",
+            "requests": 3409,
+            "price": 2013319.44,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 279220,
+            "resource": "Other"
+          }
+        ],
+        "price": 15867873.249999998,
+        "students": 2402995,
+        "requests": 30688
+      },
+      {
+        "key": "Visitors",
+        "values": [
+          {
+            "field1": "61",
+            "requests": 3,
+            "price": 3408.11,
+            "poverty": "high poverty",
+            "date": 2004,
+            "students": 173,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "85",
+            "requests": 21,
+            "price": 23355.6,
+            "poverty": "high poverty",
+            "date": 2005,
+            "students": 4018,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "109",
+            "requests": 35,
+            "price": 30623.45,
+            "poverty": "high poverty",
+            "date": 2006,
+            "students": 5650,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "133",
+            "requests": 17,
+            "price": 16133.42,
+            "poverty": "high poverty",
+            "date": 2007,
+            "students": 3192,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "157",
+            "requests": 10,
+            "price": 10148.94,
+            "poverty": "high poverty",
+            "date": 2008,
+            "students": 707,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "182",
+            "requests": 11,
+            "price": 9128.4,
+            "poverty": "high poverty",
+            "date": 2009,
+            "students": 1809,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "206",
+            "requests": 12,
+            "price": 8213.32,
+            "poverty": "high poverty",
+            "date": 2010,
+            "students": 514,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "232",
+            "requests": 19,
+            "price": 15099.32,
+            "poverty": "high poverty",
+            "date": 2011,
+            "students": 3786,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "258",
+            "requests": 33,
+            "price": 32855.09,
+            "poverty": "high poverty",
+            "date": 2012,
+            "students": 6527,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "285",
+            "requests": 34,
+            "price": 41006.27,
+            "poverty": "high poverty",
+            "date": 2013,
+            "students": 6251,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "313",
+            "requests": 112,
+            "price": 163970.98,
+            "poverty": "high poverty",
+            "date": 2014,
+            "students": 27539,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "339",
+            "requests": 154,
+            "price": 179591.61,
+            "poverty": "high poverty",
+            "date": 2015,
+            "students": 30359,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "363",
+            "requests": 128,
+            "price": 203418.12,
+            "poverty": "high poverty",
+            "date": 2016,
+            "students": 23920,
+            "resource": "Visitors"
+          }
+        ],
+        "price": 736952.63,
+        "students": 114445,
+        "requests": 589
+      }
+    ],
+    "price": 179393117.76,
+    "students": 22814903,
+    "requests": 298856
+  },
+  {
+    "key": "highest poverty",
+    "values": [
+      {
+        "key": "Books",
+        "values": [
+          {
+            "field1": "2",
+            "requests": 132,
+            "price": 79437.98,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "22",
+            "requests": 456,
+            "price": 202355.84,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 584,
+            "resource": "Books"
+          },
+          {
+            "field1": "42",
+            "requests": 785,
+            "price": 310866.03,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 39256,
+            "resource": "Books"
+          },
+          {
+            "field1": "66",
+            "requests": 1409,
+            "price": 675005.04,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 95267,
+            "resource": "Books"
+          },
+          {
+            "field1": "90",
+            "requests": 3016,
+            "price": 1456870.74,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 191869,
+            "resource": "Books"
+          },
+          {
+            "field1": "114",
+            "requests": 5350,
+            "price": 2274342.82,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 343088,
+            "resource": "Books"
+          },
+          {
+            "field1": "138",
+            "requests": 7798,
+            "price": 2994450.38,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 499655,
+            "resource": "Books"
+          },
+          {
+            "field1": "163",
+            "requests": 9465,
+            "price": 3680836.05,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 642631,
+            "resource": "Books"
+          },
+          {
+            "field1": "187",
+            "requests": 12779,
+            "price": 5079566.32,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "213",
+            "requests": 14048,
+            "price": 5987221.32,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 1092848,
+            "resource": "Books"
+          },
+          {
+            "field1": "239",
+            "requests": 14369,
+            "price": 5884305.18,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "266",
+            "requests": 14840,
+            "price": 6578902.97,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Books"
+          },
+          {
+            "field1": "294",
+            "requests": 18000,
+            "price": 8993710.72,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 1366543,
+            "resource": "Books"
+          },
+          {
+            "field1": "320",
+            "requests": 17854,
+            "price": 8903212.37,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 1444399,
+            "resource": "Books"
+          },
+          {
+            "field1": "344",
+            "requests": 17903,
+            "price": 8683670.19,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 1336969,
+            "resource": "Books"
+          }
+        ],
+        "price": 61784753.949999996,
+        "students": 7053109,
+        "requests": 138204
+      },
+      {
+        "key": "Other",
+        "values": [
+          {
+            "field1": "5",
+            "requests": 34,
+            "price": 4177.49,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "26",
+            "requests": 285,
+            "price": 1066264.73,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 132,
+            "resource": "Other"
+          },
+          {
+            "field1": "46",
+            "requests": 299,
+            "price": 90091.7,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 12362,
+            "resource": "Other"
+          },
+          {
+            "field1": "70",
+            "requests": 325,
+            "price": 251629.12,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 25884,
+            "resource": "Other"
+          },
+          {
+            "field1": "94",
+            "requests": 1063,
+            "price": 671619.4,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 204741,
+            "resource": "Other"
+          },
+          {
+            "field1": "118",
+            "requests": 2107,
+            "price": 1003444.98,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 155238,
+            "resource": "Other"
+          },
+          {
+            "field1": "142",
+            "requests": 2949,
+            "price": 1275636.2,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 218876,
+            "resource": "Other"
+          },
+          {
+            "field1": "167",
+            "requests": 3446,
+            "price": 1464538.79,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 251522,
+            "resource": "Other"
+          },
+          {
+            "field1": "191",
+            "requests": 5924,
+            "price": 2467445.81,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "217",
+            "requests": 7156,
+            "price": 3066253.85,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 587740,
+            "resource": "Other"
+          },
+          {
+            "field1": "243",
+            "requests": 7353,
+            "price": 3343476.07,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 649330,
+            "resource": "Other"
+          },
+          {
+            "field1": "270",
+            "requests": 8338,
+            "price": 3949500.95,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Other"
+          },
+          {
+            "field1": "298",
+            "requests": 11234,
+            "price": 6229425.45,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 1008660,
+            "resource": "Other"
+          },
+          {
+            "field1": "324",
+            "requests": 14349,
+            "price": 8532092.91,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 1333503,
+            "resource": "Other"
+          },
+          {
+            "field1": "348",
+            "requests": 7067,
+            "price": 4340134.78,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 620072,
+            "resource": "Other"
+          }
+        ],
+        "price": 37755732.23,
+        "students": 5068060,
+        "requests": 71929
+      },
+      {
+        "key": "Supplies",
+        "values": [
+          {
+            "field1": "8",
+            "requests": 137,
+            "price": 66795.7,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "30",
+            "requests": 647,
+            "price": 279757.76,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 350,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "50",
+            "requests": 1655,
+            "price": 608004.77,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 103628,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "74",
+            "requests": 2950,
+            "price": 1390093.01,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 263846,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "98",
+            "requests": 5680,
+            "price": 2796487.37,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 639561,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "122",
+            "requests": 8000,
+            "price": 3291769.29,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 683511,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "146",
+            "requests": 11928,
+            "price": 4459714.96,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 984687,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "171",
+            "requests": 14959,
+            "price": 5690762.18,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 1313258,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "195",
+            "requests": 18684,
+            "price": 7499091.96,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "221",
+            "requests": 21629,
+            "price": 8760981.81,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "247",
+            "requests": 22257,
+            "price": 9605808.38,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 2257393,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "274",
+            "requests": 24892,
+            "price": 11392242.62,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "302",
+            "requests": 34153,
+            "price": 17899887.46,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 0,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "328",
+            "requests": 38695,
+            "price": 20737003.76,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 3820712,
+            "resource": "Supplies"
+          },
+          {
+            "field1": "352",
+            "requests": 63830,
+            "price": 35360745.45,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 5747225,
+            "resource": "Supplies"
+          }
+        ],
+        "price": 129839146.48000002,
+        "students": 15814171,
+        "requests": 270096
+      },
+      {
+        "key": "Technology",
+        "values": [
+          {
+            "field1": "12",
+            "requests": 96,
+            "price": 96070.02,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "34",
+            "requests": 279,
+            "price": 150372.5,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 1140,
+            "resource": "Technology"
+          },
+          {
+            "field1": "54",
+            "requests": 577,
+            "price": 394091.02,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 54004,
+            "resource": "Technology"
+          },
+          {
+            "field1": "78",
+            "requests": 1460,
+            "price": 1357911.78,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 164793,
+            "resource": "Technology"
+          },
+          {
+            "field1": "102",
+            "requests": 3623,
+            "price": 3487444.31,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 390510,
+            "resource": "Technology"
+          },
+          {
+            "field1": "126",
+            "requests": 5460,
+            "price": 4557779.72,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 529025,
+            "resource": "Technology"
+          },
+          {
+            "field1": "150",
+            "requests": 8074,
+            "price": 4766280.97,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 1726968,
+            "resource": "Technology"
+          },
+          {
+            "field1": "175",
+            "requests": 11321,
+            "price": 7134269.45,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 2100401,
+            "resource": "Technology"
+          },
+          {
+            "field1": "199",
+            "requests": 15094,
+            "price": 9873978.19,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "225",
+            "requests": 17984,
+            "price": 10776029.47,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 1724260,
+            "resource": "Technology"
+          },
+          {
+            "field1": "251",
+            "requests": 21156,
+            "price": 13116024.78,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 1913278,
+            "resource": "Technology"
+          },
+          {
+            "field1": "278",
+            "requests": 25767,
+            "price": 18351159.05,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 0,
+            "resource": "Technology"
+          },
+          {
+            "field1": "306",
+            "requests": 32584,
+            "price": 30936581.22,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 2980406,
+            "resource": "Technology"
+          },
+          {
+            "field1": "332",
+            "requests": 34875,
+            "price": 31870444.66,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 3114227,
+            "resource": "Technology"
+          },
+          {
+            "field1": "356",
+            "requests": 34072,
+            "price": 29924769.29,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 3094412,
+            "resource": "Technology"
+          }
+        ],
+        "price": 166793206.43,
+        "students": 17793424,
+        "requests": 212422
+      },
+      {
+        "key": "Trips",
+        "values": [
+          {
+            "field1": "16",
+            "requests": 32,
+            "price": 22699.1,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Trips"
+          },
+          {
+            "field1": "38",
+            "requests": 58,
+            "price": 58822.02,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 220,
+            "resource": "Trips"
+          },
+          {
+            "field1": "58",
+            "requests": 138,
+            "price": 113912.17,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 4498,
+            "resource": "Trips"
+          },
+          {
+            "field1": "82",
+            "requests": 443,
+            "price": 521839.62,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 16586,
+            "resource": "Trips"
+          },
+          {
+            "field1": "106",
+            "requests": 674,
+            "price": 1265011.27,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 39662,
+            "resource": "Trips"
+          },
+          {
+            "field1": "130",
+            "requests": 333,
+            "price": 671848.65,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 14137,
+            "resource": "Trips"
+          },
+          {
+            "field1": "154",
+            "requests": 155,
+            "price": 326419.5,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 6432,
+            "resource": "Trips"
+          },
+          {
+            "field1": "179",
+            "requests": 195,
+            "price": 349515.5,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 8685,
+            "resource": "Trips"
+          },
+          {
+            "field1": "203",
+            "requests": 221,
+            "price": 519299.24,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 10816,
+            "resource": "Trips"
+          },
+          {
+            "field1": "229",
+            "requests": 224,
+            "price": 643618.25,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 12439,
+            "resource": "Trips"
+          },
+          {
+            "field1": "255",
+            "requests": 590,
+            "price": 1579119.98,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 111311,
+            "resource": "Trips"
+          },
+          {
+            "field1": "282",
+            "requests": 371,
+            "price": 1063604.09,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 19812,
+            "resource": "Trips"
+          },
+          {
+            "field1": "310",
+            "requests": 1186,
+            "price": 2560814.07,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 62709,
+            "resource": "Trips"
+          },
+          {
+            "field1": "336",
+            "requests": 2757,
+            "price": 5299040.81,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 270272,
+            "resource": "Trips"
+          },
+          {
+            "field1": "360",
+            "requests": 1831,
+            "price": 3021132.48,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 125334,
+            "resource": "Trips"
+          }
+        ],
+        "price": 18016696.75,
+        "students": 702913,
+        "requests": 9208
+      },
+      {
+        "key": "Visitors",
+        "values": [
+          {
+            "field1": "18",
+            "requests": 1,
+            "price": 400,
+            "poverty": "highest poverty",
+            "date": 2002,
+            "students": 0,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "40",
+            "requests": 6,
+            "price": 4604.41,
+            "poverty": "highest poverty",
+            "date": 2003,
+            "students": 0,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "62",
+            "requests": 18,
+            "price": 10551.2,
+            "poverty": "highest poverty",
+            "date": 2004,
+            "students": 2439,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "86",
+            "requests": 73,
+            "price": 74434.96,
+            "poverty": "highest poverty",
+            "date": 2005,
+            "students": 12930,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "110",
+            "requests": 123,
+            "price": 119340.74,
+            "poverty": "highest poverty",
+            "date": 2006,
+            "students": 14677,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "134",
+            "requests": 58,
+            "price": 49278.58,
+            "poverty": "highest poverty",
+            "date": 2007,
+            "students": 10008,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "158",
+            "requests": 36,
+            "price": 29377.38,
+            "poverty": "highest poverty",
+            "date": 2008,
+            "students": 4285,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "183",
+            "requests": 36,
+            "price": 68045.09,
+            "poverty": "highest poverty",
+            "date": 2009,
+            "students": 28281,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "207",
+            "requests": 34,
+            "price": 38508.97,
+            "poverty": "highest poverty",
+            "date": 2010,
+            "students": 5063,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "233",
+            "requests": 35,
+            "price": 61244.49,
+            "poverty": "highest poverty",
+            "date": 2011,
+            "students": 7291,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "259",
+            "requests": 69,
+            "price": 75178.92,
+            "poverty": "highest poverty",
+            "date": 2012,
+            "students": 12470,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "286",
+            "requests": 96,
+            "price": 105871.66,
+            "poverty": "highest poverty",
+            "date": 2013,
+            "students": 19051,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "314",
+            "requests": 250,
+            "price": 294108.63,
+            "poverty": "highest poverty",
+            "date": 2014,
+            "students": 45745,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "340",
+            "requests": 308,
+            "price": 411852.71,
+            "poverty": "highest poverty",
+            "date": 2015,
+            "students": 57195,
+            "resource": "Visitors"
+          },
+          {
+            "field1": "364",
+            "requests": 273,
+            "price": 425465.59,
+            "poverty": "highest poverty",
+            "date": 2016,
+            "students": 47495,
+            "resource": "Visitors"
+          }
+        ],
+        "price": 1768263.33,
+        "students": 266930,
+        "requests": 1416
+      }
+    ],
+    "price": 415957799.17,
+    "students": 46698607,
+    "requests": 703275
+  }
+]

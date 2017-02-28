@@ -1,0 +1,415 @@
+"","poverty_level","primary_focus_area","date_completed","total_price_excluding_optional_support","students_reached"
+"1","highest poverty","Applied Learning","2002",34533.93,0
+"2","low poverty","Applied Learning","2002",2268.19,0
+"3","moderate poverty","Applied Learning","2002",3827.08,0
+"4","highest poverty","Health & Sports","2002",4564,0
+"5","high poverty","History & Civics","2002",327,0
+"6","highest poverty","History & Civics","2002",25404.16,0
+"7","low poverty","History & Civics","2002",3841,0
+"8","moderate poverty","History & Civics","2002",685,0
+"9","high poverty","Literacy & Language","2002",1273,0
+"10","highest poverty","Literacy & Language","2002",57098.02,0
+"11","low poverty","Literacy & Language","2002",4266.94,0
+"12","moderate poverty","Literacy & Language","2002",2260,0
+"13","high poverty","Math & Science","2002",1855,0
+"14","highest poverty","Math & Science","2002",26942.09,0
+"15","low poverty","Math & Science","2002",1801,0
+"16","moderate poverty","Math & Science","2002",120,0
+"17","high poverty","Music & The Arts","2002",592,0
+"18","highest poverty","Music & The Arts","2002",12546.77,0
+"19","low poverty","Music & The Arts","2002",5316.59,0
+"20","moderate poverty","Music & The Arts","2002",1134,0
+"21","high poverty","Applied Learning","2003",1825.03,20
+"22","highest poverty","Applied Learning","2003",114531.63,60
+"23","low poverty","Applied Learning","2003",10085.19,0
+"24","moderate poverty","Applied Learning","2003",6745.89,0
+"25","highest poverty","Health & Sports","2003",10022.22,0
+"26","low poverty","Health & Sports","2003",434.6,0
+"27","high poverty","History & Civics","2003",2199.25,80
+"28","highest poverty","History & Civics","2003",53853.21,180
+"29","low poverty","History & Civics","2003",1431.96,0
+"30","moderate poverty","History & Civics","2003",1949.25,0
+"31","high poverty","Literacy & Language","2003",4695.19,20
+"32","highest poverty","Literacy & Language","2003",246170.47,160
+"33","low poverty","Literacy & Language","2003",7788.35,0
+"34","moderate poverty","Literacy & Language","2003",18573.96,0
+"35","high poverty","Math & Science","2003",411.4,20
+"36","highest poverty","Math & Science","2003",130041.29,20
+"37","low poverty","Math & Science","2003",4310.78,0
+"38","moderate poverty","Math & Science","2003",2931.49,0
+"39","high poverty","Music & The Arts","2003",9734.58,80
+"40","highest poverty","Music & The Arts","2003",92277.36,60
+"41","low poverty","Music & The Arts","2003",6087.12,0
+"42","moderate poverty","Music & The Arts","2003",9564.76,40
+"43","high poverty","Applied Learning","2004",18492.59,3120
+"44","highest poverty","Applied Learning","2004",144177.78,15404
+"45","low poverty","Applied Learning","2004",5011.55,0
+"46","moderate poverty","Applied Learning","2004",9315.04,1189
+"47","high poverty","Health & Sports","2004",5530.01,1641
+"48","highest poverty","Health & Sports","2004",53441.33,9872
+"49","moderate poverty","Health & Sports","2004",1403.34,764
+"50","high poverty","History & Civics","2004",10140.26,903
+"51","highest poverty","History & Civics","2004",72968.23,7523
+"52","low poverty","History & Civics","2004",389.7,20
+"53","moderate poverty","History & Civics","2004",2738.8,649
+"54","high poverty","Literacy & Language","2004",43153.08,11676
+"55","highest poverty","Literacy & Language","2004",376649.96,40923
+"56","low poverty","Literacy & Language","2004",15891.91,775
+"57","moderate poverty","Literacy & Language","2004",34911.33,4651
+"58","high poverty","Math & Science","2004",25952.5,5389
+"59","highest poverty","Math & Science","2004",231465.38,28647
+"60","low poverty","Math & Science","2004",3458.87,820
+"61","moderate poverty","Math & Science","2004",18719.56,3680
+"62","high poverty","Music & The Arts","2004",22346.05,15038
+"63","highest poverty","Music & The Arts","2004",183218.08,25365
+"64","low poverty","Music & The Arts","2004",11490.11,1177
+"65","moderate poverty","Music & The Arts","2004",14410.01,3463
+"66","high poverty","Special Needs","2004",1712.79,58
+"67","highest poverty","Special Needs","2004",3427.25,262
+"68","moderate poverty","Special Needs","2004",456.13,22
+"69","high poverty","Applied Learning","2005",39499.75,8278
+"70","highest poverty","Applied Learning","2005",332436.99,47364
+"71","low poverty","Applied Learning","2005",6921.73,635
+"72","moderate poverty","Applied Learning","2005",23431.23,3216
+"73","high poverty","Health & Sports","2005",8140.72,3973
+"74","highest poverty","Health & Sports","2005",101015.9,25025
+"75","low poverty","Health & Sports","2005",4569.28,787
+"76","moderate poverty","Health & Sports","2005",7296.69,1547
+"77","high poverty","History & Civics","2005",20275.18,3074
+"78","highest poverty","History & Civics","2005",167384.04,25351
+"79","low poverty","History & Civics","2005",3791.34,241
+"80","moderate poverty","History & Civics","2005",5479.25,1117
+"81","high poverty","Literacy & Language","2005",94176.28,20666
+"82","highest poverty","Literacy & Language","2005",603864.1,82831
+"83","low poverty","Literacy & Language","2005",16017.68,1166
+"84","moderate poverty","Literacy & Language","2005",57985.57,6206
+"85","high poverty","Math & Science","2005",59654.09,9778
+"86","highest poverty","Math & Science","2005",315005.42,56804
+"87","low poverty","Math & Science","2005",10093.07,783
+"88","moderate poverty","Math & Science","2005",25832.15,6201
+"89","high poverty","Music & The Arts","2005",45777.59,14701
+"90","highest poverty","Music & The Arts","2005",338410.76,71113
+"91","low poverty","Music & The Arts","2005",8493.49,3668
+"92","moderate poverty","Music & The Arts","2005",21220.05,6958
+"93","high poverty","Special Needs","2005",16927.57,1292
+"94","highest poverty","Special Needs","2005",88615.23,3493
+"95","moderate poverty","Special Needs","2005",5623.13,197
+"96","high poverty","Applied Learning","2006",116347.41,20073
+"97","highest poverty","Applied Learning","2006",490583.07,85228
+"98","low poverty","Applied Learning","2006",15472.58,3050
+"99","moderate poverty","Applied Learning","2006",43822.38,5482
+"100","high poverty","Health & Sports","2006",42463.54,21406
+"101","highest poverty","Health & Sports","2006",177229.66,63657
+"102","low poverty","Health & Sports","2006",2417.56,522
+"103","moderate poverty","Health & Sports","2006",20255.53,6163
+"104","high poverty","History & Civics","2006",63947.53,10952
+"105","highest poverty","History & Civics","2006",235500.75,28735
+"106","low poverty","History & Civics","2006",8949.38,596
+"107","moderate poverty","History & Civics","2006",19809.96,3896
+"108","high poverty","Literacy & Language","2006",276323.91,47609
+"109","highest poverty","Literacy & Language","2006",1367715.75,160813
+"110","low poverty","Literacy & Language","2006",27916,3552
+"111","moderate poverty","Literacy & Language","2006",137467.58,19029
+"112","high poverty","Math & Science","2006",198963.08,39117
+"113","highest poverty","Math & Science","2006",795214.65,148371
+"114","low poverty","Math & Science","2006",7861.18,1379
+"115","moderate poverty","Math & Science","2006",77196.86,14778
+"116","high poverty","Music & The Arts","2006",89697.22,22474
+"117","highest poverty","Music & The Arts","2006",509107.97,115197
+"118","low poverty","Music & The Arts","2006",7702.47,1864
+"119","moderate poverty","Music & The Arts","2006",29737.43,12432
+"120","high poverty","Special Needs","2006",46371.63,4521
+"121","highest poverty","Special Needs","2006",188541.14,17268
+"122","low poverty","Special Needs","2006",2417.98,114
+"123","moderate poverty","Special Needs","2006",27077.51,1737
+"124","high poverty","Applied Learning","2007",132553.82,30864
+"125","highest poverty","Applied Learning","2007",608098.44,116885
+"126","low poverty","Applied Learning","2007",28248.92,4913
+"127","moderate poverty","Applied Learning","2007",56853.04,11197
+"128","high poverty","Health & Sports","2007",51049.31,26058
+"129","highest poverty","Health & Sports","2007",269041.93,85641
+"130","low poverty","Health & Sports","2007",6864,868
+"131","moderate poverty","Health & Sports","2007",23760.06,9784
+"132","high poverty","History & Civics","2007",103622.77,20432
+"133","highest poverty","History & Civics","2007",398118.03,61021
+"134","low poverty","History & Civics","2007",6751.41,2089
+"135","moderate poverty","History & Civics","2007",37453.16,8538
+"136","high poverty","Literacy & Language","2007",513934.36,81741
+"137","highest poverty","Literacy & Language","2007",2377224.42,352034
+"138","low poverty","Literacy & Language","2007",47218.79,6040
+"139","moderate poverty","Literacy & Language","2007",235898.43,33826
+"140","high poverty","Math & Science","2007",344506.54,76140
+"141","highest poverty","Math & Science","2007",1282343.03,256695
+"142","low poverty","Math & Science","2007",30554.87,5592
+"143","moderate poverty","Math & Science","2007",156407.62,36976
+"144","high poverty","Music & The Arts","2007",132347.65,46986
+"145","highest poverty","Music & The Arts","2007",667243.23,405564
+"146","low poverty","Music & The Arts","2007",37228.45,7174
+"147","moderate poverty","Music & The Arts","2007",74289.94,32616
+"148","high poverty","Special Needs","2007",101830.1,7894
+"149","highest poverty","Special Needs","2007",345366.84,22617
+"150","low poverty","Special Needs","2007",7608.48,284
+"151","moderate poverty","Special Needs","2007",56813.5,2968
+"152","high poverty","Applied Learning","2008",136050.13,27388
+"153","highest poverty","Applied Learning","2008",542735.43,115931
+"154","low poverty","Applied Learning","2008",22136,2429
+"155","moderate poverty","Applied Learning","2008",56587.17,15430
+"156","high poverty","Health & Sports","2008",73581.49,34686
+"157","highest poverty","Health & Sports","2008",265808.58,123142
+"158","low poverty","Health & Sports","2008",5424,1569
+"159","moderate poverty","Health & Sports","2008",28327.24,664965
+"160","high poverty","History & Civics","2008",140998.14,28804
+"161","highest poverty","History & Civics","2008",467196.84,80699
+"162","low poverty","History & Civics","2008",8279.72,2044
+"163","moderate poverty","History & Civics","2008",66994.93,14765
+"164","high poverty","Literacy & Language","2008",816960.36,139119
+"165","highest poverty","Literacy & Language","2008",3216478.76,521891
+"166","low poverty","Literacy & Language","2008",69726.4,13049
+"167","moderate poverty","Literacy & Language","2008",368548.77,65183
+"168","high poverty","Math & Science","2008",572353.41,141216
+"169","highest poverty","Math & Science","2008",1742327.34,375820
+"170","low poverty","Math & Science","2008",44072,9598
+"171","moderate poverty","Math & Science","2008",222756.7,53939
+"172","high poverty","Music & The Arts","2008",209842.24,78733
+"173","highest poverty","Music & The Arts","2008",757232.78,290805
+"174","low poverty","Music & The Arts","2008",25422,14160
+"175","moderate poverty","Music & The Arts","2008",75269.13,36812
+"176","high poverty","Special Needs","2008",132485.77,11045
+"177","highest poverty","Special Needs","2008",392505.41,29256
+"178","low poverty","Special Needs","2008",11430.58,945
+"179","moderate poverty","Special Needs","2008",67313.57,25938
+"180","highest poverty","","2009",17,0
+"181","high poverty","Applied Learning","2009",311704.19,96833
+"182","highest poverty","Applied Learning","2009",874033.23,173843
+"183","low poverty","Applied Learning","2009",25513.14,2540
+"184","moderate poverty","Applied Learning","2009",128842.91,25492
+"185","high poverty","Health & Sports","2009",80811.36,38715
+"186","highest poverty","Health & Sports","2009",338294.1,141301
+"187","low poverty","Health & Sports","2009",10800.02,2993
+"188","moderate poverty","Health & Sports","2009",21111.18,14464
+"189","high poverty","History & Civics","2009",263665.92,46828
+"190","highest poverty","History & Civics","2009",807425.72,154657
+"191","low poverty","History & Civics","2009",16497.64,2791
+"192","moderate poverty","History & Civics","2009",106965.74,21968
+"193","high poverty","Literacy & Language","2009",1352138.4,265897
+"194","highest poverty","Literacy & Language","2009",4589115.46,773480
+"195","low poverty","Literacy & Language","2009",106859.07,17422
+"196","moderate poverty","Literacy & Language","2009",517276.44,88144
+"197","high poverty","Math & Science","2009",1088132.5,238969
+"198","highest poverty","Math & Science","2009",3110016.99,622476
+"199","low poverty","Math & Science","2009",94778.1,17703
+"200","moderate poverty","Math & Science","2009",355049.49,89174
+"201","high poverty","Music & The Arts","2009",392861.37,157966
+"202","highest poverty","Music & The Arts","2009",1312977.51,423901
+"203","low poverty","Music & The Arts","2009",20922.29,8858
+"204","moderate poverty","Music & The Arts","2009",117244.52,50046
+"205","high poverty","Special Needs","2009",227154.75,18921
+"206","highest poverty","Special Needs","2009",650941.43,57824
+"207","low poverty","Special Needs","2009",19391.36,2023
+"208","moderate poverty","Special Needs","2009",85770.19,7395
+"209","high poverty","Applied Learning","2010",374808.83,96811
+"210","highest poverty","Applied Learning","2010",1004207.47,1218537
+"211","low poverty","Applied Learning","2010",31137.52,10127
+"212","moderate poverty","Applied Learning","2010",139839.59,36575
+"213","high poverty","Health & Sports","2010",128042.05,70917
+"214","highest poverty","Health & Sports","2010",368307.24,NA
+"215","low poverty","Health & Sports","2010",19053.9,6444
+"216","moderate poverty","Health & Sports","2010",46548.41,24395
+"217","high poverty","History & Civics","2010",305992.2,65389
+"218","highest poverty","History & Civics","2010",929195.45,NA
+"219","low poverty","History & Civics","2010",33930.33,5917
+"220","moderate poverty","History & Civics","2010",143343.46,35632
+"221","high poverty","Literacy & Language","2010",2268568.34,NA
+"222","highest poverty","Literacy & Language","2010",7404689.34,NA
+"223","low poverty","Literacy & Language","2010",251750.61,46648
+"224","moderate poverty","Literacy & Language","2010",1045222.36,NA
+"225","high poverty","Math & Science","2010",1665561.41,NA
+"226","highest poverty","Math & Science","2010",4911336.38,NA
+"227","low poverty","Math & Science","2010",277429.83,56658
+"228","moderate poverty","Math & Science","2010",953996.88,NA
+"229","high poverty","Music & The Arts","2010",613117.16,249411
+"230","highest poverty","Music & The Arts","2010",1686998.09,NA
+"231","low poverty","Music & The Arts","2010",80995.77,22828
+"232","moderate poverty","Music & The Arts","2010",261313.15,111396
+"233","high poverty","Special Needs","2010",289443.16,26807
+"234","highest poverty","Special Needs","2010",902021.27,NA
+"235","low poverty","Special Needs","2010",39388.74,2389
+"236","moderate poverty","Special Needs","2010",188128.69,16216
+"237","highest poverty","","2011",326.84,24
+"238","high poverty","Applied Learning","2011",492528.83,179216
+"239","highest poverty","Applied Learning","2011",1159141.26,258604
+"240","low poverty","Applied Learning","2011",61395.6,13964
+"241","moderate poverty","Applied Learning","2011",196021.43,58678
+"242","high poverty","Health & Sports","2011",152592.23,82470
+"243","highest poverty","Health & Sports","2011",468999.25,203584
+"244","low poverty","Health & Sports","2011",22161.28,11042
+"245","moderate poverty","Health & Sports","2011",105016.94,63838
+"246","high poverty","History & Civics","2011",247083.84,60693
+"247","highest poverty","History & Civics","2011",810877.35,176044
+"248","low poverty","History & Civics","2011",47138.7,8752
+"249","moderate poverty","History & Civics","2011",142757.67,35008
+"250","high poverty","Literacy & Language","2011",3029185.23,550378
+"251","highest poverty","Literacy & Language","2011",8280876.88,1276539
+"252","low poverty","Literacy & Language","2011",406825.42,53476
+"253","moderate poverty","Literacy & Language","2011",1720125.87,NA
+"254","high poverty","Math & Science","2011",1869938.79,413390
+"255","highest poverty","Math & Science","2011",4520697.44,926481
+"256","low poverty","Math & Science","2011",361733.6,69728
+"257","moderate poverty","Math & Science","2011",1184556.74,231313
+"258","high poverty","Music & The Arts","2011",612704.45,296614
+"259","highest poverty","Music & The Arts","2011",1765128.92,NA
+"260","low poverty","Music & The Arts","2011",87437.95,30863
+"261","moderate poverty","Music & The Arts","2011",335503.35,149964
+"262","high poverty","Special Needs","2011",430647.06,30388
+"263","highest poverty","Special Needs","2011",1117345.36,94161
+"264","low poverty","Special Needs","2011",60941.88,4504
+"265","moderate poverty","Special Needs","2011",283636.56,24332
+"266","highest poverty","","2012",1295.08,NA
+"267","moderate poverty","","2012",521.86,NA
+"268","high poverty","Applied Learning","2012",1072757.54,263312
+"269","highest poverty","Applied Learning","2012",2227969.3,432781
+"270","low poverty","Applied Learning","2012",124570.97,25699
+"271","moderate poverty","Applied Learning","2012",452773.11,NA
+"272","high poverty","Health & Sports","2012",311261.79,158248
+"273","highest poverty","Health & Sports","2012",653292.38,302880
+"274","low poverty","Health & Sports","2012",33782.4,13676
+"275","moderate poverty","Health & Sports","2012",127480.38,64220
+"276","high poverty","History & Civics","2012",514126.14,98262
+"277","highest poverty","History & Civics","2012",1047270.15,213298
+"278","low poverty","History & Civics","2012",57789.37,8752
+"279","moderate poverty","History & Civics","2012",258319.49,46283
+"280","high poverty","Literacy & Language","2012",4269565.66,637832
+"281","highest poverty","Literacy & Language","2012",9504816.38,NA
+"282","low poverty","Literacy & Language","2012",510501.98,NA
+"283","moderate poverty","Literacy & Language","2012",2162957.9,292672
+"284","high poverty","Math & Science","2012",2699568.28,535992
+"285","highest poverty","Math & Science","2012",5728831.94,1047885
+"286","low poverty","Math & Science","2012",523657.65,73659
+"287","moderate poverty","Math & Science","2012",1715042.92,306508
+"288","high poverty","Music & The Arts","2012",996940.72,396476
+"289","highest poverty","Music & The Arts","2012",2344041.71,981674
+"290","low poverty","Music & The Arts","2012",145903.12,55771
+"291","moderate poverty","Music & The Arts","2012",514195.11,226368
+"292","high poverty","Special Needs","2012",570825.16,39984
+"293","highest poverty","Special Needs","2012",1355817.36,98299
+"294","low poverty","Special Needs","2012",67182.87,5507
+"295","moderate poverty","Special Needs","2012",380276.43,27148
+"296","high poverty","","2013",2359.57,NA
+"297","highest poverty","","2013",3096.68,NA
+"298","moderate poverty","","2013",590.07,21
+"299","high poverty","Applied Learning","2013",799445.5,179297
+"300","highest poverty","Applied Learning","2013",1646592.67,NA
+"301","low poverty","Applied Learning","2013",112311.88,20100
+"302","moderate poverty","Applied Learning","2013",507606.37,NA
+"303","high poverty","Health & Sports","2013",406832,151796
+"304","highest poverty","Health & Sports","2013",745951.52,NA
+"305","low poverty","Health & Sports","2013",26408.47,18592
+"306","moderate poverty","Health & Sports","2013",176824.24,88703
+"307","high poverty","History & Civics","2013",564732.83,94328
+"308","highest poverty","History & Civics","2013",1113259.42,NA
+"309","low poverty","History & Civics","2013",73702.59,13792
+"310","moderate poverty","History & Civics","2013",351632.43,56728
+"311","high poverty","Literacy & Language","2013",4654978.94,NA
+"312","highest poverty","Literacy & Language","2013",10421667.77,NA
+"313","low poverty","Literacy & Language","2013",600162.32,NA
+"314","moderate poverty","Literacy & Language","2013",2928691.59,NA
+"315","high poverty","Math & Science","2013",4409115.02,NA
+"316","highest poverty","Math & Science","2013",8161133.89,NA
+"317","low poverty","Math & Science","2013",713885.32,87139
+"318","moderate poverty","Math & Science","2013",3373813.55,NA
+"319","high poverty","Music & The Arts","2013",1114852.73,NA
+"320","highest poverty","Music & The Arts","2013",2791743.38,NA
+"321","low poverty","Music & The Arts","2013",112944.77,37689
+"322","moderate poverty","Music & The Arts","2013",642670.42,267560
+"323","high poverty","Special Needs","2013",792019.8,50610
+"324","highest poverty","Special Needs","2013",1595309.35,NA
+"325","low poverty","Special Needs","2013",85752.66,6765
+"326","moderate poverty","Special Needs","2013",517596.12,34973
+"327","high poverty","","2014",2922.75,NA
+"328","highest poverty","","2014",342.47,NA
+"329","high poverty","Applied Learning","2014",1061094.54,214018
+"330","highest poverty","Applied Learning","2014",2281735.52,403034
+"331","low poverty","Applied Learning","2014",93169.22,23575
+"332","moderate poverty","Applied Learning","2014",681723.97,135968
+"333","high poverty","Health & Sports","2014",474677.84,175604
+"334","highest poverty","Health & Sports","2014",1196382.94,493283
+"335","low poverty","Health & Sports","2014",35810.08,16217
+"336","moderate poverty","Health & Sports","2014",258784.92,101163
+"337","high poverty","History & Civics","2014",705351.21,106699
+"338","highest poverty","History & Civics","2014",1790532.03,239375
+"339","low poverty","History & Civics","2014",80364.74,13224
+"340","moderate poverty","History & Civics","2014",432008.47,66699
+"341","high poverty","Literacy & Language","2014",5995066.63,787874
+"342","highest poverty","Literacy & Language","2014",15428928.45,1828202
+"343","low poverty","Literacy & Language","2014",713289.48,57632
+"344","moderate poverty","Literacy & Language","2014",4312230.11,483486
+"345","high poverty","Math & Science","2014",5410547.77,783722
+"346","highest poverty","Math & Science","2014",11414792.98,1524824
+"347","low poverty","Math & Science","2014",879364.23,95809
+"348","moderate poverty","Math & Science","2014",4478850.56,NA
+"349","high poverty","Music & The Arts","2014",1790101.08,593395
+"350","highest poverty","Music & The Arts","2014",3991817.96,1424686
+"351","low poverty","Music & The Arts","2014",149493.97,58902
+"352","moderate poverty","Music & The Arts","2014",868313.34,287749
+"353","high poverty","Special Needs","2014",919156.85,52969
+"354","highest poverty","Special Needs","2014",2126604.75,128498
+"355","low poverty","Special Needs","2014",83437.71,8235
+"356","moderate poverty","Special Needs","2014",737852.32,40901
+"357","highest poverty","","2015",2952.69,NA
+"358","moderate poverty","","2015",523.54,NA
+"359","high poverty","Applied Learning","2015",1324782.85,236137
+"360","highest poverty","Applied Learning","2015",3098051.46,528468
+"361","low poverty","Applied Learning","2015",179122.8,25382
+"362","moderate poverty","Applied Learning","2015",809966.41,139448
+"363","high poverty","Health & Sports","2015",752363.81,217500
+"364","highest poverty","Health & Sports","2015",2322300.65,590011
+"365","low poverty","Health & Sports","2015",102905.91,30570
+"366","moderate poverty","Health & Sports","2015",466472.57,122617
+"367","high poverty","History & Civics","2015",1328430.58,171648
+"368","highest poverty","History & Civics","2015",2870519.76,358129
+"369","low poverty","History & Civics","2015",144196.88,16769
+"370","moderate poverty","History & Civics","2015",682168.49,96243
+"371","high poverty","Literacy & Language","2015",6612896.47,850230
+"372","highest poverty","Literacy & Language","2015",16555059.25,1963149
+"373","low poverty","Literacy & Language","2015",907143.16,83174
+"374","moderate poverty","Literacy & Language","2015",4473573.75,468535
+"375","high poverty","Math & Science","2015",6565170.48,973458
+"376","highest poverty","Math & Science","2015",12371847.68,1765271
+"377","low poverty","Math & Science","2015",918519.86,125101
+"378","moderate poverty","Math & Science","2015",4733886.11,620093
+"379","high poverty","Music & The Arts","2015",1673386.68,656181
+"380","highest poverty","Music & The Arts","2015",3933001.91,1572277
+"381","low poverty","Music & The Arts","2015",157290.84,65023
+"382","moderate poverty","Music & The Arts","2015",818906.08,326117
+"383","high poverty","Special Needs","2015",1498624.87,92123
+"384","highest poverty","Special Needs","2015",3475414.3,202833
+"385","low poverty","Special Needs","2015",179064.49,9210
+"386","moderate poverty","Special Needs","2015",986742.19,57682
+"387","high poverty","Applied Learning","2016",953807.84,172134
+"388","highest poverty","Applied Learning","2016",2148425.21,378236
+"389","low poverty","Applied Learning","2016",127020.83,20413
+"390","moderate poverty","Applied Learning","2016",636501.6,112955
+"391","high poverty","Health & Sports","2016",2370638.62,401098
+"392","highest poverty","Health & Sports","2016",5042863.81,904225
+"393","low poverty","Health & Sports","2016",315209.41,87819
+"394","moderate poverty","Health & Sports","2016",1385305.96,235730
+"395","high poverty","History & Civics","2016",543500.15,91616
+"396","highest poverty","History & Civics","2016",1202643.38,192394
+"397","low poverty","History & Civics","2016",34342.21,3749
+"398","moderate poverty","History & Civics","2016",288740.31,50661
+"399","high poverty","Literacy & Language","2016",5203754.56,691102
+"400","highest poverty","Literacy & Language","2016",12942218.88,1591152
+"401","low poverty","Literacy & Language","2016",684702.85,76684
+"402","moderate poverty","Literacy & Language","2016",2861806.5,345582
+"403","high poverty","Math & Science","2016",5937573.37,858323
+"404","highest poverty","Math & Science","2016",12293089.35,1667061
+"405","low poverty","Math & Science","2016",830382.64,112066
+"406","moderate poverty","Math & Science","2016",3590174.25,506759
+"407","high poverty","Music & The Arts","2016",1722833.45,531348
+"408","highest poverty","Music & The Arts","2016",4119385.51,1304294
+"409","low poverty","Music & The Arts","2016",146645.34,51459
+"410","moderate poverty","Music & The Arts","2016",662655.8,252067
+"411","high poverty","Special Needs","2016",1099545.8,76855
+"412","highest poverty","Special Needs","2016",2235583.58,159275
+"413","low poverty","Special Needs","2016",140610.24,8718
+"414","moderate poverty","Special Needs","2016",732184.64,43450

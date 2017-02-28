@@ -1,0 +1,3314 @@
+[
+    {
+        "field1": "1",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "34533.93",
+        "students_reached": "0"
+    },
+    {
+        "field1": "2",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "2268.19",
+        "students_reached": "0"
+    },
+    {
+        "field1": "3",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "3827.08",
+        "students_reached": "0"
+    },
+    {
+        "field1": "4",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "4564",
+        "students_reached": "0"
+    },
+    {
+        "field1": "5",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "327",
+        "students_reached": "0"
+    },
+    {
+        "field1": "6",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "25404.16",
+        "students_reached": "0"
+    },
+    {
+        "field1": "7",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "3841",
+        "students_reached": "0"
+    },
+    {
+        "field1": "8",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "685",
+        "students_reached": "0"
+    },
+    {
+        "field1": "9",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "1273",
+        "students_reached": "0"
+    },
+    {
+        "field1": "10",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "57098.02",
+        "students_reached": "0"
+    },
+    {
+        "field1": "11",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "4266.94",
+        "students_reached": "0"
+    },
+    {
+        "field1": "12",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "2260",
+        "students_reached": "0"
+    },
+    {
+        "field1": "13",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "1855",
+        "students_reached": "0"
+    },
+    {
+        "field1": "14",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "26942.09",
+        "students_reached": "0"
+    },
+    {
+        "field1": "15",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "1801",
+        "students_reached": "0"
+    },
+    {
+        "field1": "16",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "120",
+        "students_reached": "0"
+    },
+    {
+        "field1": "17",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "592",
+        "students_reached": "0"
+    },
+    {
+        "field1": "18",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "12546.77",
+        "students_reached": "0"
+    },
+    {
+        "field1": "19",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "5316.59",
+        "students_reached": "0"
+    },
+    {
+        "field1": "20",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2002",
+        "total_price_excluding_optional_support": "1134",
+        "students_reached": "0"
+    },
+    {
+        "field1": "21",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "1825.03",
+        "students_reached": "20"
+    },
+    {
+        "field1": "22",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "114531.63",
+        "students_reached": "60"
+    },
+    {
+        "field1": "23",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "10085.19",
+        "students_reached": "0"
+    },
+    {
+        "field1": "24",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "6745.89",
+        "students_reached": "0"
+    },
+    {
+        "field1": "25",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "10022.22",
+        "students_reached": "0"
+    },
+    {
+        "field1": "26",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "434.6",
+        "students_reached": "0"
+    },
+    {
+        "field1": "27",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "2199.25",
+        "students_reached": "80"
+    },
+    {
+        "field1": "28",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "53853.21",
+        "students_reached": "180"
+    },
+    {
+        "field1": "29",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "1431.96",
+        "students_reached": "0"
+    },
+    {
+        "field1": "30",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "1949.25",
+        "students_reached": "0"
+    },
+    {
+        "field1": "31",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "4695.19",
+        "students_reached": "20"
+    },
+    {
+        "field1": "32",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "246170.47",
+        "students_reached": "160"
+    },
+    {
+        "field1": "33",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "7788.35",
+        "students_reached": "0"
+    },
+    {
+        "field1": "34",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "18573.96",
+        "students_reached": "0"
+    },
+    {
+        "field1": "35",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "411.4",
+        "students_reached": "20"
+    },
+    {
+        "field1": "36",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "130041.29",
+        "students_reached": "20"
+    },
+    {
+        "field1": "37",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "4310.78",
+        "students_reached": "0"
+    },
+    {
+        "field1": "38",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "2931.49",
+        "students_reached": "0"
+    },
+    {
+        "field1": "39",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "9734.58",
+        "students_reached": "80"
+    },
+    {
+        "field1": "40",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "92277.36",
+        "students_reached": "60"
+    },
+    {
+        "field1": "41",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "6087.12",
+        "students_reached": "0"
+    },
+    {
+        "field1": "42",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2003",
+        "total_price_excluding_optional_support": "9564.76",
+        "students_reached": "40"
+    },
+    {
+        "field1": "43",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "18492.59",
+        "students_reached": "3120"
+    },
+    {
+        "field1": "44",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "144177.78",
+        "students_reached": "15404"
+    },
+    {
+        "field1": "45",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "5011.55",
+        "students_reached": "0"
+    },
+    {
+        "field1": "46",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "9315.04",
+        "students_reached": "1189"
+    },
+    {
+        "field1": "47",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "5530.01",
+        "students_reached": "1641"
+    },
+    {
+        "field1": "48",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "53441.33",
+        "students_reached": "9872"
+    },
+    {
+        "field1": "49",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "1403.34",
+        "students_reached": "764"
+    },
+    {
+        "field1": "50",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "10140.26",
+        "students_reached": "903"
+    },
+    {
+        "field1": "51",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "72968.23",
+        "students_reached": "7523"
+    },
+    {
+        "field1": "52",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "389.7",
+        "students_reached": "20"
+    },
+    {
+        "field1": "53",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "2738.8",
+        "students_reached": "649"
+    },
+    {
+        "field1": "54",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "43153.08",
+        "students_reached": "11676"
+    },
+    {
+        "field1": "55",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "376649.96",
+        "students_reached": "40923"
+    },
+    {
+        "field1": "56",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "15891.91",
+        "students_reached": "775"
+    },
+    {
+        "field1": "57",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "34911.33",
+        "students_reached": "4651"
+    },
+    {
+        "field1": "58",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "25952.5",
+        "students_reached": "5389"
+    },
+    {
+        "field1": "59",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "231465.38",
+        "students_reached": "28647"
+    },
+    {
+        "field1": "60",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "3458.87",
+        "students_reached": "820"
+    },
+    {
+        "field1": "61",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "18719.56",
+        "students_reached": "3680"
+    },
+    {
+        "field1": "62",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "22346.05",
+        "students_reached": "15038"
+    },
+    {
+        "field1": "63",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "183218.08",
+        "students_reached": "25365"
+    },
+    {
+        "field1": "64",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "11490.11",
+        "students_reached": "1177"
+    },
+    {
+        "field1": "65",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "14410.01",
+        "students_reached": "3463"
+    },
+    {
+        "field1": "66",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "1712.79",
+        "students_reached": "58"
+    },
+    {
+        "field1": "67",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "3427.25",
+        "students_reached": "262"
+    },
+    {
+        "field1": "68",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2004",
+        "total_price_excluding_optional_support": "456.13",
+        "students_reached": "22"
+    },
+    {
+        "field1": "69",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "39499.75",
+        "students_reached": "8278"
+    },
+    {
+        "field1": "70",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "332436.99",
+        "students_reached": "47364"
+    },
+    {
+        "field1": "71",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "6921.73",
+        "students_reached": "635"
+    },
+    {
+        "field1": "72",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "23431.23",
+        "students_reached": "3216"
+    },
+    {
+        "field1": "73",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "8140.72",
+        "students_reached": "3973"
+    },
+    {
+        "field1": "74",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "101015.9",
+        "students_reached": "25025"
+    },
+    {
+        "field1": "75",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "4569.28",
+        "students_reached": "787"
+    },
+    {
+        "field1": "76",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "7296.69",
+        "students_reached": "1547"
+    },
+    {
+        "field1": "77",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "20275.18",
+        "students_reached": "3074"
+    },
+    {
+        "field1": "78",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "167384.04",
+        "students_reached": "25351"
+    },
+    {
+        "field1": "79",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "3791.34",
+        "students_reached": "241"
+    },
+    {
+        "field1": "80",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "5479.25",
+        "students_reached": "1117"
+    },
+    {
+        "field1": "81",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "94176.28",
+        "students_reached": "20666"
+    },
+    {
+        "field1": "82",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "603864.1",
+        "students_reached": "82831"
+    },
+    {
+        "field1": "83",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "16017.68",
+        "students_reached": "1166"
+    },
+    {
+        "field1": "84",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "57985.57",
+        "students_reached": "6206"
+    },
+    {
+        "field1": "85",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "59654.09",
+        "students_reached": "9778"
+    },
+    {
+        "field1": "86",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "315005.42",
+        "students_reached": "56804"
+    },
+    {
+        "field1": "87",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "10093.07",
+        "students_reached": "783"
+    },
+    {
+        "field1": "88",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "25832.15",
+        "students_reached": "6201"
+    },
+    {
+        "field1": "89",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "45777.59",
+        "students_reached": "14701"
+    },
+    {
+        "field1": "90",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "338410.76",
+        "students_reached": "71113"
+    },
+    {
+        "field1": "91",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "8493.49",
+        "students_reached": "3668"
+    },
+    {
+        "field1": "92",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "21220.05",
+        "students_reached": "6958"
+    },
+    {
+        "field1": "93",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "16927.57",
+        "students_reached": "1292"
+    },
+    {
+        "field1": "94",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "88615.23",
+        "students_reached": "3493"
+    },
+    {
+        "field1": "95",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2005",
+        "total_price_excluding_optional_support": "5623.13",
+        "students_reached": "197"
+    },
+    {
+        "field1": "96",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "116347.41",
+        "students_reached": "20073"
+    },
+    {
+        "field1": "97",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "490583.07",
+        "students_reached": "85228"
+    },
+    {
+        "field1": "98",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "15472.58",
+        "students_reached": "3050"
+    },
+    {
+        "field1": "99",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "43822.38",
+        "students_reached": "5482"
+    },
+    {
+        "field1": "100",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "42463.54",
+        "students_reached": "21406"
+    },
+    {
+        "field1": "101",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "177229.66",
+        "students_reached": "63657"
+    },
+    {
+        "field1": "102",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "2417.56",
+        "students_reached": "522"
+    },
+    {
+        "field1": "103",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "20255.53",
+        "students_reached": "6163"
+    },
+    {
+        "field1": "104",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "63947.53",
+        "students_reached": "10952"
+    },
+    {
+        "field1": "105",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "235500.75",
+        "students_reached": "28735"
+    },
+    {
+        "field1": "106",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "8949.38",
+        "students_reached": "596"
+    },
+    {
+        "field1": "107",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "19809.96",
+        "students_reached": "3896"
+    },
+    {
+        "field1": "108",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "276323.91",
+        "students_reached": "47609"
+    },
+    {
+        "field1": "109",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "1367715.75",
+        "students_reached": "160813"
+    },
+    {
+        "field1": "110",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "27916",
+        "students_reached": "3552"
+    },
+    {
+        "field1": "111",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "137467.58",
+        "students_reached": "19029"
+    },
+    {
+        "field1": "112",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "198963.08",
+        "students_reached": "39117"
+    },
+    {
+        "field1": "113",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "795214.65",
+        "students_reached": "148371"
+    },
+    {
+        "field1": "114",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "7861.18",
+        "students_reached": "1379"
+    },
+    {
+        "field1": "115",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "77196.86",
+        "students_reached": "14778"
+    },
+    {
+        "field1": "116",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "89697.22",
+        "students_reached": "22474"
+    },
+    {
+        "field1": "117",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "509107.97",
+        "students_reached": "115197"
+    },
+    {
+        "field1": "118",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "7702.47",
+        "students_reached": "1864"
+    },
+    {
+        "field1": "119",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "29737.43",
+        "students_reached": "12432"
+    },
+    {
+        "field1": "120",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "46371.63",
+        "students_reached": "4521"
+    },
+    {
+        "field1": "121",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "188541.14",
+        "students_reached": "17268"
+    },
+    {
+        "field1": "122",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "2417.98",
+        "students_reached": "114"
+    },
+    {
+        "field1": "123",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2006",
+        "total_price_excluding_optional_support": "27077.51",
+        "students_reached": "1737"
+    },
+    {
+        "field1": "124",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "132553.82",
+        "students_reached": "30864"
+    },
+    {
+        "field1": "125",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "608098.44",
+        "students_reached": "116885"
+    },
+    {
+        "field1": "126",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "28248.92",
+        "students_reached": "4913"
+    },
+    {
+        "field1": "127",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "56853.04",
+        "students_reached": "11197"
+    },
+    {
+        "field1": "128",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "51049.31",
+        "students_reached": "26058"
+    },
+    {
+        "field1": "129",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "269041.93",
+        "students_reached": "85641"
+    },
+    {
+        "field1": "130",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "6864",
+        "students_reached": "868"
+    },
+    {
+        "field1": "131",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "23760.06",
+        "students_reached": "9784"
+    },
+    {
+        "field1": "132",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "103622.77",
+        "students_reached": "20432"
+    },
+    {
+        "field1": "133",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "398118.03",
+        "students_reached": "61021"
+    },
+    {
+        "field1": "134",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "6751.41",
+        "students_reached": "2089"
+    },
+    {
+        "field1": "135",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "37453.16",
+        "students_reached": "8538"
+    },
+    {
+        "field1": "136",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "513934.36",
+        "students_reached": "81741"
+    },
+    {
+        "field1": "137",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "2377224.42",
+        "students_reached": "352034"
+    },
+    {
+        "field1": "138",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "47218.79",
+        "students_reached": "6040"
+    },
+    {
+        "field1": "139",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "235898.43",
+        "students_reached": "33826"
+    },
+    {
+        "field1": "140",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "344506.54",
+        "students_reached": "76140"
+    },
+    {
+        "field1": "141",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "1282343.03",
+        "students_reached": "256695"
+    },
+    {
+        "field1": "142",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "30554.87",
+        "students_reached": "5592"
+    },
+    {
+        "field1": "143",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "156407.62",
+        "students_reached": "36976"
+    },
+    {
+        "field1": "144",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "132347.65",
+        "students_reached": "46986"
+    },
+    {
+        "field1": "145",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "667243.23",
+        "students_reached": "405564"
+    },
+    {
+        "field1": "146",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "37228.45",
+        "students_reached": "7174"
+    },
+    {
+        "field1": "147",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "74289.94",
+        "students_reached": "32616"
+    },
+    {
+        "field1": "148",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "101830.1",
+        "students_reached": "7894"
+    },
+    {
+        "field1": "149",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "345366.84",
+        "students_reached": "22617"
+    },
+    {
+        "field1": "150",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "7608.48",
+        "students_reached": "284"
+    },
+    {
+        "field1": "151",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2007",
+        "total_price_excluding_optional_support": "56813.5",
+        "students_reached": "2968"
+    },
+    {
+        "field1": "152",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "136050.13",
+        "students_reached": "27388"
+    },
+    {
+        "field1": "153",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "542735.43",
+        "students_reached": "115931"
+    },
+    {
+        "field1": "154",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "22136",
+        "students_reached": "2429"
+    },
+    {
+        "field1": "155",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "56587.17",
+        "students_reached": "15430"
+    },
+    {
+        "field1": "156",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "73581.49",
+        "students_reached": "34686"
+    },
+    {
+        "field1": "157",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "265808.58",
+        "students_reached": "123142"
+    },
+    {
+        "field1": "158",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "5424",
+        "students_reached": "1569"
+    },
+    {
+        "field1": "159",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "28327.24",
+        "students_reached": "664965"
+    },
+    {
+        "field1": "160",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "140998.14",
+        "students_reached": "28804"
+    },
+    {
+        "field1": "161",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "467196.84",
+        "students_reached": "80699"
+    },
+    {
+        "field1": "162",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "8279.72",
+        "students_reached": "2044"
+    },
+    {
+        "field1": "163",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "66994.93",
+        "students_reached": "14765"
+    },
+    {
+        "field1": "164",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "816960.36",
+        "students_reached": "139119"
+    },
+    {
+        "field1": "165",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "3216478.76",
+        "students_reached": "521891"
+    },
+    {
+        "field1": "166",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "69726.4",
+        "students_reached": "13049"
+    },
+    {
+        "field1": "167",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "368548.77",
+        "students_reached": "65183"
+    },
+    {
+        "field1": "168",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "572353.41",
+        "students_reached": "141216"
+    },
+    {
+        "field1": "169",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "1742327.34",
+        "students_reached": "375820"
+    },
+    {
+        "field1": "170",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "44072",
+        "students_reached": "9598"
+    },
+    {
+        "field1": "171",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "222756.7",
+        "students_reached": "53939"
+    },
+    {
+        "field1": "172",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "209842.24",
+        "students_reached": "78733"
+    },
+    {
+        "field1": "173",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "757232.78",
+        "students_reached": "290805"
+    },
+    {
+        "field1": "174",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "25422",
+        "students_reached": "14160"
+    },
+    {
+        "field1": "175",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "75269.13",
+        "students_reached": "36812"
+    },
+    {
+        "field1": "176",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "132485.77",
+        "students_reached": "11045"
+    },
+    {
+        "field1": "177",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "392505.41",
+        "students_reached": "29256"
+    },
+    {
+        "field1": "178",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "11430.58",
+        "students_reached": "945"
+    },
+    {
+        "field1": "179",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2008",
+        "total_price_excluding_optional_support": "67313.57",
+        "students_reached": "25938"
+    },
+    {
+        "field1": "180",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "17",
+        "students_reached": "0"
+    },
+    {
+        "field1": "181",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "311704.19",
+        "students_reached": "96833"
+    },
+    {
+        "field1": "182",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "874033.23",
+        "students_reached": "173843"
+    },
+    {
+        "field1": "183",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "25513.14",
+        "students_reached": "2540"
+    },
+    {
+        "field1": "184",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "128842.91",
+        "students_reached": "25492"
+    },
+    {
+        "field1": "185",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "80811.36",
+        "students_reached": "38715"
+    },
+    {
+        "field1": "186",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "338294.1",
+        "students_reached": "141301"
+    },
+    {
+        "field1": "187",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "10800.02",
+        "students_reached": "2993"
+    },
+    {
+        "field1": "188",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "21111.18",
+        "students_reached": "14464"
+    },
+    {
+        "field1": "189",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "263665.92",
+        "students_reached": "46828"
+    },
+    {
+        "field1": "190",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "807425.72",
+        "students_reached": "154657"
+    },
+    {
+        "field1": "191",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "16497.64",
+        "students_reached": "2791"
+    },
+    {
+        "field1": "192",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "106965.74",
+        "students_reached": "21968"
+    },
+    {
+        "field1": "193",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "1352138.4",
+        "students_reached": "265897"
+    },
+    {
+        "field1": "194",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "4589115.46",
+        "students_reached": "773480"
+    },
+    {
+        "field1": "195",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "106859.07",
+        "students_reached": "17422"
+    },
+    {
+        "field1": "196",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "517276.44",
+        "students_reached": "88144"
+    },
+    {
+        "field1": "197",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "1088132.5",
+        "students_reached": "238969"
+    },
+    {
+        "field1": "198",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "3110016.99",
+        "students_reached": "622476"
+    },
+    {
+        "field1": "199",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "94778.1",
+        "students_reached": "17703"
+    },
+    {
+        "field1": "200",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "355049.49",
+        "students_reached": "89174"
+    },
+    {
+        "field1": "201",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "392861.37",
+        "students_reached": "157966"
+    },
+    {
+        "field1": "202",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "1312977.51",
+        "students_reached": "423901"
+    },
+    {
+        "field1": "203",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "20922.29",
+        "students_reached": "8858"
+    },
+    {
+        "field1": "204",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "117244.52",
+        "students_reached": "50046"
+    },
+    {
+        "field1": "205",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "227154.75",
+        "students_reached": "18921"
+    },
+    {
+        "field1": "206",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "650941.43",
+        "students_reached": "57824"
+    },
+    {
+        "field1": "207",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "19391.36",
+        "students_reached": "2023"
+    },
+    {
+        "field1": "208",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2009",
+        "total_price_excluding_optional_support": "85770.19",
+        "students_reached": "7395"
+    },
+    {
+        "field1": "209",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "374808.83",
+        "students_reached": "96811"
+    },
+    {
+        "field1": "210",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "1004207.47",
+        "students_reached": "1218537"
+    },
+    {
+        "field1": "211",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "31137.52",
+        "students_reached": "10127"
+    },
+    {
+        "field1": "212",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "139839.59",
+        "students_reached": "36575"
+    },
+    {
+        "field1": "213",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "128042.05",
+        "students_reached": "70917"
+    },
+    {
+        "field1": "214",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "368307.24",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "215",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "19053.9",
+        "students_reached": "6444"
+    },
+    {
+        "field1": "216",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "46548.41",
+        "students_reached": "24395"
+    },
+    {
+        "field1": "217",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "305992.2",
+        "students_reached": "65389"
+    },
+    {
+        "field1": "218",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "929195.45",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "219",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "33930.33",
+        "students_reached": "5917"
+    },
+    {
+        "field1": "220",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "143343.46",
+        "students_reached": "35632"
+    },
+    {
+        "field1": "221",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "2268568.34",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "222",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "7404689.34",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "223",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "251750.61",
+        "students_reached": "46648"
+    },
+    {
+        "field1": "224",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "1045222.36",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "225",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "1665561.41",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "226",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "4911336.38",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "227",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "277429.83",
+        "students_reached": "56658"
+    },
+    {
+        "field1": "228",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "953996.88",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "229",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "613117.16",
+        "students_reached": "249411"
+    },
+    {
+        "field1": "230",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "1686998.09",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "231",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "80995.77",
+        "students_reached": "22828"
+    },
+    {
+        "field1": "232",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "261313.15",
+        "students_reached": "111396"
+    },
+    {
+        "field1": "233",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "289443.16",
+        "students_reached": "26807"
+    },
+    {
+        "field1": "234",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "902021.27",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "235",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "39388.74",
+        "students_reached": "2389"
+    },
+    {
+        "field1": "236",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2010",
+        "total_price_excluding_optional_support": "188128.69",
+        "students_reached": "16216"
+    },
+    {
+        "field1": "237",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "326.84",
+        "students_reached": "24"
+    },
+    {
+        "field1": "238",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "492528.83",
+        "students_reached": "179216"
+    },
+    {
+        "field1": "239",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1159141.26",
+        "students_reached": "258604"
+    },
+    {
+        "field1": "240",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "61395.6",
+        "students_reached": "13964"
+    },
+    {
+        "field1": "241",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "196021.43",
+        "students_reached": "58678"
+    },
+    {
+        "field1": "242",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "152592.23",
+        "students_reached": "82470"
+    },
+    {
+        "field1": "243",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "468999.25",
+        "students_reached": "203584"
+    },
+    {
+        "field1": "244",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "22161.28",
+        "students_reached": "11042"
+    },
+    {
+        "field1": "245",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "105016.94",
+        "students_reached": "63838"
+    },
+    {
+        "field1": "246",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "247083.84",
+        "students_reached": "60693"
+    },
+    {
+        "field1": "247",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "810877.35",
+        "students_reached": "176044"
+    },
+    {
+        "field1": "248",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "47138.7",
+        "students_reached": "8752"
+    },
+    {
+        "field1": "249",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "142757.67",
+        "students_reached": "35008"
+    },
+    {
+        "field1": "250",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "3029185.23",
+        "students_reached": "550378"
+    },
+    {
+        "field1": "251",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "8280876.88",
+        "students_reached": "1276539"
+    },
+    {
+        "field1": "252",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "406825.42",
+        "students_reached": "53476"
+    },
+    {
+        "field1": "253",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1720125.87",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "254",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1869938.79",
+        "students_reached": "413390"
+    },
+    {
+        "field1": "255",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "4520697.44",
+        "students_reached": "926481"
+    },
+    {
+        "field1": "256",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "361733.6",
+        "students_reached": "69728"
+    },
+    {
+        "field1": "257",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1184556.74",
+        "students_reached": "231313"
+    },
+    {
+        "field1": "258",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "612704.45",
+        "students_reached": "296614"
+    },
+    {
+        "field1": "259",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1765128.92",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "260",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "87437.95",
+        "students_reached": "30863"
+    },
+    {
+        "field1": "261",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "335503.35",
+        "students_reached": "149964"
+    },
+    {
+        "field1": "262",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "430647.06",
+        "students_reached": "30388"
+    },
+    {
+        "field1": "263",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "1117345.36",
+        "students_reached": "94161"
+    },
+    {
+        "field1": "264",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "60941.88",
+        "students_reached": "4504"
+    },
+    {
+        "field1": "265",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2011",
+        "total_price_excluding_optional_support": "283636.56",
+        "students_reached": "24332"
+    },
+    {
+        "field1": "266",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "1295.08",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "267",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "521.86",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "268",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "1072757.54",
+        "students_reached": "263312"
+    },
+    {
+        "field1": "269",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "2227969.3",
+        "students_reached": "432781"
+    },
+    {
+        "field1": "270",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "124570.97",
+        "students_reached": "25699"
+    },
+    {
+        "field1": "271",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "452773.11",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "272",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "311261.79",
+        "students_reached": "158248"
+    },
+    {
+        "field1": "273",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "653292.38",
+        "students_reached": "302880"
+    },
+    {
+        "field1": "274",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "33782.4",
+        "students_reached": "13676"
+    },
+    {
+        "field1": "275",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "127480.38",
+        "students_reached": "64220"
+    },
+    {
+        "field1": "276",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "514126.14",
+        "students_reached": "98262"
+    },
+    {
+        "field1": "277",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "1047270.15",
+        "students_reached": "213298"
+    },
+    {
+        "field1": "278",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "57789.37",
+        "students_reached": "8752"
+    },
+    {
+        "field1": "279",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "258319.49",
+        "students_reached": "46283"
+    },
+    {
+        "field1": "280",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "4269565.66",
+        "students_reached": "637832"
+    },
+    {
+        "field1": "281",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "9504816.38",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "282",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "510501.98",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "283",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "2162957.9",
+        "students_reached": "292672"
+    },
+    {
+        "field1": "284",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "2699568.28",
+        "students_reached": "535992"
+    },
+    {
+        "field1": "285",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "5728831.94",
+        "students_reached": "1047885"
+    },
+    {
+        "field1": "286",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "523657.65",
+        "students_reached": "73659"
+    },
+    {
+        "field1": "287",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "1715042.92",
+        "students_reached": "306508"
+    },
+    {
+        "field1": "288",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "996940.72",
+        "students_reached": "396476"
+    },
+    {
+        "field1": "289",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "2344041.71",
+        "students_reached": "981674"
+    },
+    {
+        "field1": "290",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "145903.12",
+        "students_reached": "55771"
+    },
+    {
+        "field1": "291",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "514195.11",
+        "students_reached": "226368"
+    },
+    {
+        "field1": "292",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "570825.16",
+        "students_reached": "39984"
+    },
+    {
+        "field1": "293",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "1355817.36",
+        "students_reached": "98299"
+    },
+    {
+        "field1": "294",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "67182.87",
+        "students_reached": "5507"
+    },
+    {
+        "field1": "295",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2012",
+        "total_price_excluding_optional_support": "380276.43",
+        "students_reached": "27148"
+    },
+    {
+        "field1": "296",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "2359.57",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "297",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "3096.68",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "298",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "590.07",
+        "students_reached": "21"
+    },
+    {
+        "field1": "299",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "799445.5",
+        "students_reached": "179297"
+    },
+    {
+        "field1": "300",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "1646592.67",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "301",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "112311.88",
+        "students_reached": "20100"
+    },
+    {
+        "field1": "302",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "507606.37",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "303",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "406832",
+        "students_reached": "151796"
+    },
+    {
+        "field1": "304",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "745951.52",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "305",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "26408.47",
+        "students_reached": "18592"
+    },
+    {
+        "field1": "306",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "176824.24",
+        "students_reached": "88703"
+    },
+    {
+        "field1": "307",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "564732.83",
+        "students_reached": "94328"
+    },
+    {
+        "field1": "308",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "1113259.42",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "309",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "73702.59",
+        "students_reached": "13792"
+    },
+    {
+        "field1": "310",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "351632.43",
+        "students_reached": "56728"
+    },
+    {
+        "field1": "311",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "4654978.94",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "312",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "10421667.77",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "313",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "600162.32",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "314",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "2928691.59",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "315",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "4409115.02",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "316",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "8161133.89",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "317",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "713885.32",
+        "students_reached": "87139"
+    },
+    {
+        "field1": "318",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "3373813.55",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "319",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "1114852.73",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "320",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "2791743.38",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "321",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "112944.77",
+        "students_reached": "37689"
+    },
+    {
+        "field1": "322",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "642670.42",
+        "students_reached": "267560"
+    },
+    {
+        "field1": "323",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "792019.8",
+        "students_reached": "50610"
+    },
+    {
+        "field1": "324",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "1595309.35",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "325",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "85752.66",
+        "students_reached": "6765"
+    },
+    {
+        "field1": "326",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2013",
+        "total_price_excluding_optional_support": "517596.12",
+        "students_reached": "34973"
+    },
+    {
+        "field1": "327",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "2922.75",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "328",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "342.47",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "329",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "1061094.54",
+        "students_reached": "214018"
+    },
+    {
+        "field1": "330",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "2281735.52",
+        "students_reached": "403034"
+    },
+    {
+        "field1": "331",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "93169.22",
+        "students_reached": "23575"
+    },
+    {
+        "field1": "332",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "681723.97",
+        "students_reached": "135968"
+    },
+    {
+        "field1": "333",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "474677.84",
+        "students_reached": "175604"
+    },
+    {
+        "field1": "334",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "1196382.94",
+        "students_reached": "493283"
+    },
+    {
+        "field1": "335",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "35810.08",
+        "students_reached": "16217"
+    },
+    {
+        "field1": "336",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "258784.92",
+        "students_reached": "101163"
+    },
+    {
+        "field1": "337",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "705351.21",
+        "students_reached": "106699"
+    },
+    {
+        "field1": "338",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "1790532.03",
+        "students_reached": "239375"
+    },
+    {
+        "field1": "339",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "80364.74",
+        "students_reached": "13224"
+    },
+    {
+        "field1": "340",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "432008.47",
+        "students_reached": "66699"
+    },
+    {
+        "field1": "341",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "5995066.63",
+        "students_reached": "787874"
+    },
+    {
+        "field1": "342",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "15428928.45",
+        "students_reached": "1828202"
+    },
+    {
+        "field1": "343",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "713289.48",
+        "students_reached": "57632"
+    },
+    {
+        "field1": "344",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "4312230.11",
+        "students_reached": "483486"
+    },
+    {
+        "field1": "345",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "5410547.77",
+        "students_reached": "783722"
+    },
+    {
+        "field1": "346",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "11414792.98",
+        "students_reached": "1524824"
+    },
+    {
+        "field1": "347",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "879364.23",
+        "students_reached": "95809"
+    },
+    {
+        "field1": "348",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "4478850.56",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "349",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "1790101.08",
+        "students_reached": "593395"
+    },
+    {
+        "field1": "350",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "3991817.96",
+        "students_reached": "1424686"
+    },
+    {
+        "field1": "351",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "149493.97",
+        "students_reached": "58902"
+    },
+    {
+        "field1": "352",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "868313.34",
+        "students_reached": "287749"
+    },
+    {
+        "field1": "353",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "919156.85",
+        "students_reached": "52969"
+    },
+    {
+        "field1": "354",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "2126604.75",
+        "students_reached": "128498"
+    },
+    {
+        "field1": "355",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "83437.71",
+        "students_reached": "8235"
+    },
+    {
+        "field1": "356",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2014",
+        "total_price_excluding_optional_support": "737852.32",
+        "students_reached": "40901"
+    },
+    {
+        "field1": "357",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "2952.69",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "358",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "523.54",
+        "students_reached": "NA"
+    },
+    {
+        "field1": "359",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "1324782.85",
+        "students_reached": "236137"
+    },
+    {
+        "field1": "360",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "3098051.46",
+        "students_reached": "528468"
+    },
+    {
+        "field1": "361",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "179122.8",
+        "students_reached": "25382"
+    },
+    {
+        "field1": "362",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "809966.41",
+        "students_reached": "139448"
+    },
+    {
+        "field1": "363",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "752363.81",
+        "students_reached": "217500"
+    },
+    {
+        "field1": "364",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "2322300.65",
+        "students_reached": "590011"
+    },
+    {
+        "field1": "365",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "102905.91",
+        "students_reached": "30570"
+    },
+    {
+        "field1": "366",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "466472.57",
+        "students_reached": "122617"
+    },
+    {
+        "field1": "367",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "1328430.58",
+        "students_reached": "171648"
+    },
+    {
+        "field1": "368",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "2870519.76",
+        "students_reached": "358129"
+    },
+    {
+        "field1": "369",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "144196.88",
+        "students_reached": "16769"
+    },
+    {
+        "field1": "370",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "682168.49",
+        "students_reached": "96243"
+    },
+    {
+        "field1": "371",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "6612896.47",
+        "students_reached": "850230"
+    },
+    {
+        "field1": "372",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "16555059.25",
+        "students_reached": "1963149"
+    },
+    {
+        "field1": "373",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "907143.16",
+        "students_reached": "83174"
+    },
+    {
+        "field1": "374",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "4473573.75",
+        "students_reached": "468535"
+    },
+    {
+        "field1": "375",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "6565170.48",
+        "students_reached": "973458"
+    },
+    {
+        "field1": "376",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "12371847.68",
+        "students_reached": "1765271"
+    },
+    {
+        "field1": "377",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "918519.86",
+        "students_reached": "125101"
+    },
+    {
+        "field1": "378",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "4733886.11",
+        "students_reached": "620093"
+    },
+    {
+        "field1": "379",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "1673386.68",
+        "students_reached": "656181"
+    },
+    {
+        "field1": "380",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "3933001.91",
+        "students_reached": "1572277"
+    },
+    {
+        "field1": "381",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "157290.84",
+        "students_reached": "65023"
+    },
+    {
+        "field1": "382",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "818906.08",
+        "students_reached": "326117"
+    },
+    {
+        "field1": "383",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "1498624.87",
+        "students_reached": "92123"
+    },
+    {
+        "field1": "384",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "3475414.3",
+        "students_reached": "202833"
+    },
+    {
+        "field1": "385",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "179064.49",
+        "students_reached": "9210"
+    },
+    {
+        "field1": "386",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2015",
+        "total_price_excluding_optional_support": "986742.19",
+        "students_reached": "57682"
+    },
+    {
+        "field1": "387",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "953807.84",
+        "students_reached": "172134"
+    },
+    {
+        "field1": "388",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "2148425.21",
+        "students_reached": "378236"
+    },
+    {
+        "field1": "389",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "127020.83",
+        "students_reached": "20413"
+    },
+    {
+        "field1": "390",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Applied Learning",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "636501.6",
+        "students_reached": "112955"
+    },
+    {
+        "field1": "391",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "2370638.62",
+        "students_reached": "401098"
+    },
+    {
+        "field1": "392",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "5042863.81",
+        "students_reached": "904225"
+    },
+    {
+        "field1": "393",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "315209.41",
+        "students_reached": "87819"
+    },
+    {
+        "field1": "394",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Health & Sports",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "1385305.96",
+        "students_reached": "235730"
+    },
+    {
+        "field1": "395",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "543500.15",
+        "students_reached": "91616"
+    },
+    {
+        "field1": "396",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "1202643.38",
+        "students_reached": "192394"
+    },
+    {
+        "field1": "397",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "34342.21",
+        "students_reached": "3749"
+    },
+    {
+        "field1": "398",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "History & Civics",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "288740.31",
+        "students_reached": "50661"
+    },
+    {
+        "field1": "399",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "5203754.56",
+        "students_reached": "691102"
+    },
+    {
+        "field1": "400",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "12942218.88",
+        "students_reached": "1591152"
+    },
+    {
+        "field1": "401",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "684702.85",
+        "students_reached": "76684"
+    },
+    {
+        "field1": "402",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Literacy & Language",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "2861806.5",
+        "students_reached": "345582"
+    },
+    {
+        "field1": "403",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "5937573.37",
+        "students_reached": "858323"
+    },
+    {
+        "field1": "404",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "12293089.35",
+        "students_reached": "1667061"
+    },
+    {
+        "field1": "405",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "830382.64",
+        "students_reached": "112066"
+    },
+    {
+        "field1": "406",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Math & Science",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "3590174.25",
+        "students_reached": "506759"
+    },
+    {
+        "field1": "407",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "1722833.45",
+        "students_reached": "531348"
+    },
+    {
+        "field1": "408",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "4119385.51",
+        "students_reached": "1304294"
+    },
+    {
+        "field1": "409",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "146645.34",
+        "students_reached": "51459"
+    },
+    {
+        "field1": "410",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Music & The Arts",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "662655.8",
+        "students_reached": "252067"
+    },
+    {
+        "field1": "411",
+        "poverty_level": "high poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "1099545.8",
+        "students_reached": "76855"
+    },
+    {
+        "field1": "412",
+        "poverty_level": "highest poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "2235583.58",
+        "students_reached": "159275"
+    },
+    {
+        "field1": "413",
+        "poverty_level": "low poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "140610.24",
+        "students_reached": "8718"
+    },
+    {
+        "field1": "414",
+        "poverty_level": "moderate poverty",
+        "primary_focus_area": "Special Needs",
+        "date_completed": "2016",
+        "total_price_excluding_optional_support": "732184.64",
+        "students_reached": "43450"
+    }
+]
