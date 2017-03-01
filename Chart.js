@@ -264,13 +264,16 @@ export default class Chart {
   updateTooltip(idx, pos) {
     var tooltip = ''
     var date = this.povertySeries[idx].date
-    // console.log(this.data)
+    var totalDollarAmt = 0
+
     this.povertyLevels.forEach((pl,i) => {
       var dollarAmt = this.povertySeries[idx][pl]
       var percent = (100 * dollarAmt / this.povertySeries[idx].total).toFixed(0)
       var totalStudents = this.seriesByPoverty[pl][idx].totalStudents
       var totalRequests = this.seriesByPoverty[pl][idx].totalRequests
       var plLabel = pl.split(' ').map(d => d[0].toUpperCase() + d.slice(1)).join(' ')
+
+      totalDollarAmt += dollarAmt
       tooltip += `<div class="tooltip-title">${plLabel} - ${percent}%</div>`
         + `<div class="tooltip-content">${d3.format('$3,')(dollarAmt)} Requested</div>`
         + `<div class="tooltip-content">${d3.format('3,')(totalRequests)} Requests</div>`
@@ -278,7 +281,7 @@ export default class Chart {
         + `<br>`
     })
     d3.select('#tooltip').html(tooltip)
-    d3.select('#year').text(date)
+    d3.select('#year').text(`${date} - ${ d3.format('$3,')(totalDollarAmt) }`)
 
     var line = this.container.selectAll('line').data([1])
 
